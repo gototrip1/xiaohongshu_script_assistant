@@ -53,15 +53,15 @@ src/workspaces/skills/script_generate/fenerate_content/SKILL.md
 
 | 工具/子代理 | 说明 | 文件位置 |
 |------------|------|---------|
-| **主代理 (main_agent)** | 调度子代理的顶层智能体，负责意图识别和任务分发 | [src/agent/main_agent.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/main_agent.py) |
-| **investigation 子代理** | 小红书博主调研专家，自动搜索 10 位博主、推荐最优人选、输出内容拆解 | [src/agent/subagents/investigation.yaml](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/subagents/investigation.yaml) |
-| **script_generate 子代理** | 短视频脚本创作专家，产出口播文案、产品植入点、分镜设计、飞书文档写入 | [src/agent/subagents/script_generate.yaml](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/subagents/script_generate.yaml) |
-| **web_search 工具** | 智谱 AI 搜索 API，用于搜索小红书博主和内容信息 | [src/agent/tools/web_search.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/tools/web_search.py) |
-| **飞书 15 个 MCP 工具** | 飞书文档读写、表格创建、图片上传、文件夹管理等 | [src/agent/tools/mcp_client.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/tools/mcp_client.py) |
-| **爬虫 skill** | 网页抓取工具，抓取博主主页内容并转 Markdown | [src/skills/investigation/web-scraper/SKILL.md](file:///d:/programmme/pycharm/code/Script_assistant/src/skills/investigation/web-scraper/SKILL.md) |
-| **脚本生成 skill** | 可复用的短视频脚本生成方法论（5 步流程 + 风险检查清单） | [src/workspaces/skills/script_generate/generate_content/SKILL.md](file:///d:/programmme/pycharm/code/Script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md) |
-| **LLM 模型** | 通义千问 (qwen_llm)，通过 LangChain 调用 | [src/agent/models/model.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/models/model.py) |
-| **Gradio UI** | 流式对话界面，支持工具调用过程展示 | [src/test/ui_agent.py](file:///d:/programmme/pycharm/code/Script_assistant/src/test/ui_agent.py) |
+| **主代理 (main_agent)** | 调度子代理的顶层智能体，负责意图识别和任务分发 | [src/agent/main_agent.py](/xiaohongshu_script_assistant/src/agent/main_agent.py) |
+| **investigation 子代理** | 小红书博主调研专家，自动搜索 10 位博主、推荐最优人选、输出内容拆解 | [src/agent/subagents/investigation.yaml](/xiaohongshu_script_assistant/src/agent/subagents/investigation.yaml) |
+| **script_generate 子代理** | 短视频脚本创作专家，产出口播文案、产品植入点、分镜设计、飞书文档写入 | [src/agent/subagents/script_generate.yaml](/xiaohongshu_script_assistant/src/agent/subagents/script_generate.yaml) |
+| **web_search 工具** | 智谱 AI 搜索 API，用于搜索小红书博主和内容信息 | [src/agent/tools/web_search.py](/xiaohongshu_script_assistant/src/agent/tools/web_search.py) |
+| **飞书 15 个 MCP 工具** | 飞书文档读写、表格创建、图片上传、文件夹管理等 | [src/agent/tools/mcp_client.py](/xiaohongshu_script_assistant/src/agent/tools/mcp_client.py) |
+| **爬虫 skill** | 网页抓取工具，抓取博主主页内容并转 Markdown | [src/skills/investigation/web-scraper/SKILL.md](/xiaohongshu_script_assistant/src/skills/investigation/web-scraper/SKILL.md) |
+| **脚本生成 skill** | 可复用的短视频脚本生成方法论（5 步流程 + 风险检查清单） | [src/workspaces/skills/script_generate/generate_content/SKILL.md](/xiaohongshu_script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md) |
+| **LLM 模型** | 通义千问 (qwen_llm)，通过 LangChain 调用 | [src/agent/models/model.py](/xiaohongshu_script_assistant/src/agent/models/model.py) |
+| **Gradio UI** | 流式对话界面，支持工具调用过程展示 | [src/test/ui_agent.py](/xiaohongshu_script_assistant/src/test/ui_agent.py) |
 
 **典型工作流：**
 ```
@@ -82,13 +82,16 @@ src/workspaces/skills/script_generate/fenerate_content/SKILL.md
 
 ```bash
 # 1. 进入项目目录
-cd Script_assistant
+cd xiaohongshu_script_assistant
 
-# 2. 激活虚拟环境
+# 2. 创建虚拟环境,激活虚拟环境
+python -m venv .my_venv
+
 .my_venv\Scripts\activate
 
-# 3. 安装依赖（如果还没安装 gradio）
-pip install gradio
+
+# 3. 安装依赖
+pip install -r requirements.txt
 
 # 4.替换.env.example为.env
 mv .env.example .env
@@ -97,7 +100,7 @@ mv .env.example .env
 
 #### 配置环境变量
 
-在 `src/.env` 文件中配置以下变量（参考 [src/agent/models/env_utils.py](/Script_assistant/src/agent/models/env_utils.py)）：
+在 `src/.env` 文件中配置以下变量（参考 [src/agent/models/env_utils.py](/xiaohongshu_script_assistant/src/agent/models/env_utils.py)）：
 
 ```
 # 智谱 AI（web_search 工具）
@@ -163,8 +166,8 @@ python test/test_feishu.py
 2. **开通机器人能力**（第 3 步）
 3. **配置权限**（第 4 步，需开通文档相关权限）
 4. **获取凭证**（第 5 步，APP_ID + APP_SECRET）
-5. **MCP 自动连接**：代码在 [mcp_client.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/tools/mcp_client.py) 中通过 `npx -y feishu-mcp --stdio` 自动启动飞书 MCP Server，无需手动配置
-6. **授权文档**：应用创建的文档自动归属于应用云空间，如需给个人用户访问，调用 `batch_create_feishu_permission` 或使用 [test_feishu.py](file:///d:/programmme/pycharm/code/Script_assistant/src/test/test_feishu.py) 中的 `set_public_permission()` 设置公网权限
+5. **MCP 自动连接**：代码在 [mcp_client.py](/xiaohongshu_script_assistant/src/agent/tools/mcp_client.py) 中通过 `npx -y feishu-mcp --stdio` 自动启动飞书 MCP Server，无需手动配置
+6. **授权文档**：应用创建的文档自动归属于应用云空间，如需给个人用户访问，调用 `batch_create_feishu_permission` 或使用 [test_feishu.py](/xiaohongshu_script_assistant/src/test/test_feishu.py) 中的 `set_public_permission()` 设置公网权限
 
 **脚本子代理自动写入飞书文档的流程：**
 
@@ -200,5 +203,5 @@ create_feishu_table()                  → 生成分镜表格
 - 脚本文档：直接在飞书中查看（由 script_generate 子代理创建）
 
 **示例文档：**
-- 已有的博主调研报告案例：[docs/light醒_小红书博主调研报告.md](file:///d:/programmme/pycharm/code/Script_assistant/docs/light醒_小红书博主调研报告.md)
-- 方法论说明文档：[docs/小红书Agent方法论说明_找博主_参考内容_脚本分镜设计.md](file:///d:/programmme/pycharm/code/Script_assistant/docs/小红书Agent方法论说明_找博主_参考内容_脚本分镜设计.md)
+- 已有的博主调研报告案例：[docs/light醒_小红书博主调研报告.md](/xiaohongshu_script_assistant/docs/light醒_小红书博主调研报告.md)
+- 方法论说明文档：[docs/小红书Agent方法论说明_找博主_参考内容_脚本分镜设计.md](/xiaohongshu_script_assistant/docs/小红书Agent方法论说明_找博主_参考内容_脚本分镜设计.md)

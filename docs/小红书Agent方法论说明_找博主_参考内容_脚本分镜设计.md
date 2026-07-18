@@ -315,7 +315,7 @@ create_feishu_table        → 创建分镜表格
 
 ### 5.5 可复用性
 
-通过 Skill 沉淀（[generate_content SKILL.md](file:///d:/programmme/pycharm/code/Script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md)），整套方法论可复用于不同品牌、不同品类的脚本创作，只需更换 brief 输入。
+通过 Skill 沉淀（[generate_content SKILL.md](/xiaohongshu_script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md)），整套方法论可复用于不同品牌、不同品类的脚本创作，只需更换 brief 输入。
 
 ---
 
@@ -323,13 +323,13 @@ create_feishu_table        → 创建分镜表格
 
 | 文件 | 作用 |
 |------|------|
-| [investigation.yaml](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/subagents/investigation.yaml) | 博主调研子代理配置（system_prompt + 工具） |
-| [script_generate.yaml](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/subagents/script_generate.yaml) | 脚本创作子代理配置（system_prompt + 飞书工具） |
-| [generate_content SKILL.md](file:///d:/programmme/pycharm/code/Script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md) | 脚本生成可复用技能文档（流程+输入+输出+检查清单） |
-| [web-scraper SKILL.md](file:///d:/programmme/pycharm/code/Script_assistant/src/skills/investigation/web-scraper/SKILL.md) | 爬虫技能文档 |
-| [scrape_page.py](file:///d:/programmme/pycharm/code/Script_assistant/src/skills/investigation/web-scraper/scrape_page.py) | 爬虫脚本实现 |
-| [main_agent.py](file:///d:/programmme/pycharm/code/Script_assistant/src/agent/main_agent.py) | 主代理（调度两个子代理） |
-| [轻醒_小红书博主调研报告.md](file:///d:/programmme/pycharm/code/Script_assistant/docs/light醒_小红书博主调研报告.md) | 实际案例报告 |
+| [investigation.yaml](/xiaohongshu_script_assistant/src/agent/subagents/investigation.yaml) | 博主调研子代理配置（system_prompt + 工具） |
+| [script_generate.yaml](/xiaohongshu_script_assistant/src/agent/subagents/script_generate.yaml) | 脚本创作子代理配置（system_prompt + 飞书工具） |
+| [generate_content SKILL.md](/xiaohongshu_script_assistant/src/workspaces/skills/script_generate/generate_content/SKILL.md) | 脚本生成可复用技能文档（流程+输入+输出+检查清单） |
+| [web-scraper SKILL.md](/xiaohongshu_script_assistant/src/skills/investigation/web-scraper/SKILL.md) | 爬虫技能文档 |
+| [scrape_page.py](/xiaohongshu_script_assistant/src/skills/investigation/web-scraper/scrape_page.py) | 爬虫脚本实现 |
+| [main_agent.py](/xiaohongshu_script_assistant/src/agent/main_agent.py) | 主代理（调度两个子代理） |
+| [轻醒_小红书博主调研报告.md](/xiaohongshu_script_assistant/docs/light醒_小红书博主调研报告.md) | 实际案例报告 |
 
 ---
 
