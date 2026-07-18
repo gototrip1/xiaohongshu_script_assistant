@@ -1,0 +1,203 @@
+{
+  "blocks": [
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 1,
+          "content": "🎬 轻醒×菜菜的减脂日记 — 短视频脚本"
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 2,
+          "content": "一、基础信息"
+        }
+      }
+    },
+    {
+      "blockType": "code",
+      "options": {
+        "code": {
+          "code": "脚本标题：减脂早餐Day28｜打工人5分钟高蛋白早餐，饱腹到中午！\n预计时长：75秒\n内容类型：日常vlog + 好物分享\n博主风格：不露脸、俯拍为主、连续剧打卡式、口语化闺蜜安利",
+          "language": 1
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 2,
+          "content": "二、完整口播文案"
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【0-5s】开场钩子"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「姐妹们！减脂早餐第28天！今天这个搭配我真的要吃一辈子！」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：兴奋、日常，像跟闺蜜分享新发现"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【5-15s】场景痛点 + 便当展示"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「打工人早上真的起不来对吧？今天这个5分钟就能搞定，高蛋白低负担，饱腹感绝了，一整个上午都不会饿。」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：共鸣感、实用导向"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【15-30s】制作过程 + 产品第一次露出"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「先准备一盒轻醒的希腊酸奶，0蔗糖的哈，这个蛋白质含量很高。倒到碗里，你看这个质地——」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：自然、随性，像在展示自己日常在用的东西"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【30-45s】搭配过程 + 营养数据"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「加点蓝莓和燕麦片进去，这个蓝莓味的轻醒本身就带果粒，但我还是喜欢自己再加一点。一杯下来蛋白质大概有15g左右，碳水也控制住了。」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：轻松科普、数据化表达"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【45-55s】成品展示 + 产品第二次露出"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「你看，就这么简单。旁边再放一盒黄桃味的当加餐，下午饿的时候来一盒，比零食健康多了。」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：满足感、分享感"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【55-65s】食用镜头 + 真实感受"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「我先替你们尝一口——嗯，浓稠度真的很可以，不是那种稀的酸奶，吃起来像希腊酸奶该有的样子。」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：真实体验、自然种草"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 3,
+          "content": "【65-75s】互动引导 + 收尾"
+        }
+      }
+    },
+    {
+      "blockType": "text",
+      "options": {
+        "text": {
+          "textStyles": [
+            {"text": "口播", "style": {"bold": true}},
+            {"text": "：「姐妹们你们早餐一般都怎么搭配？评论区交流一下！咱们一起打卡，明天见！」"},
+            {"text": "\n语气", "style": {"bold": true}},
+            {"text": "：亲切、邀请感"}
+          ]
+        }
+      }
+    },
+    {
+      "blockType": "heading",
+      "options": {
+        "heading": {
+          "level": 2,
+          "content": "三、产品植入点详解"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# 环境变量
+.env
+.env.*
+!.env.example
+
+# 虚拟环境
+.my_venv/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Trae
+.trae/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak

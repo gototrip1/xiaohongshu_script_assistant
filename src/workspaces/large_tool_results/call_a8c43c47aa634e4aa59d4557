@@ -1,0 +1,7252 @@
+[
+  {
+    "block_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "block_type": 1,
+    "children": [
+      "doxcnV5t8UNZgfUCBb0YwJejPId",
+      "doxcn2lnbwsWGvk4U3MaqQW7Jhe",
+      "doxcnEvoXugOSoXvGEM67arYN5e",
+      "doxcntHkrekvCyB00CcZFrytCKc",
+      "doxcnANZMCc6OvnqPSuuqX4Qw6f",
+      "doxcnXtchM4jV7r1wNzIpbpZFEc",
+      "doxcn9Cwamkfr4txvwBW1xRQRfd",
+      "doxcnAIcxjGTTCid3LmZum0K2Ph",
+      "doxcnlJlPsvqLwU50Qt5yG2dnbe",
+      "doxcnryHUYSKvZTIcWgKGKuDrPg",
+      "doxcnAtVsj9pLB3F7eLdKBO94kv",
+      "doxcncn5U1OZie4u4ME4Hf4qDpm",
+      "doxcnyGDDQLUnOhyzqDmufpPLDd",
+      "doxcnyAgAV8bC8SwRZnmzy9x1re",
+      "doxcnGdTTaL4bJJYN95KIfwksbc",
+      "doxcn4GPXARrPgYNaDIAJHh2ISd",
+      "doxcn2BCaYcUSP8jIdAFhVqd2Qe",
+      "doxcnj2FKIq7gfLLQb84VIaHE3b",
+      "doxcn3KY99VNV5yuED3wbSqPwof",
+      "doxcnZRPwUYLYhohJ2Hr2xxnuDH",
+      "doxcnYJXpQj0OAUBH53kbZyKk5b",
+      "doxcnBdr0OjjZCKrJ2Ufg343SDc",
+      "doxcnw5RNW11iGSvQfUgnizVxEi",
+      "doxcnDy9y2lovnsCXcOJXNjFCMh",
+      "doxcnOri9KxvgzqMRl28ujoWovg",
+      "doxcnuOFMa7vGjFaQfHWT06v02z",
+      "doxcnMT2UPphjFPzvUHKZPygd5g",
+      "doxcnSLCsM7GfZubCDKLKpjX1hR",
+      "doxcnUICLvzasiZvxIExBQAdSse",
+      "doxcnwj2iuxSSmGdrxqHXszpqRb",
+      "doxcnouWvcycHVeuQMFgxLW7lZc",
+      "doxcnh8In4cXvutff6uBzyTgomb",
+      "doxcnezaS8I09b2tIf6snePwQTe",
+      "doxcnHZSVv90gcNiDA28pDmfsDe",
+      "doxcnVmw0Fhb4HmlK8r0tVT0a1d",
+      "doxcnx2Y7oZen7uuWLCEc4ISKWO"
+    ],
+    "page": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "轻醒×菜菜的减脂日记 — 短视频脚本",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1
+      }
+    },
+    "parent_id": ""
+  },
+  {
+    "block_id": "doxcnV5t8UNZgfUCBb0YwJejPId",
+    "block_type": 3,
+    "heading1": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "🎬 轻醒×菜菜的减脂日记 — 短视频脚本",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcn2lnbwsWGvk4U3MaqQW7Jhe",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "一、基础信息",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnEvoXugOSoXvGEM67arYN5e",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "脚本标题：减脂早餐Day28｜打工人5分钟高蛋白早餐，饱腹到中午！\n预计时长：75秒\n内容类型：日常vlog + 好物分享\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "博主风格：不露脸、俯拍为主、连续剧打卡式、口语化闺蜜安利",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcntHkrekvCyB00CcZFrytCKc",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "二、完整口播文案",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnANZMCc6OvnqPSuuqX4Qw6f",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【0-5s】开场钩子\n口播：「姐妹们！减脂早餐第28天！今天这个搭配我真的要吃一辈子！」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：兴奋、日常，像跟闺蜜分享新发现",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnXtchM4jV7r1wNzIpbpZFEc",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【5-15s】场景痛点 + 便当展示\n口播：「打工人早上真的起不来对吧？今天这个5分钟就能搞定，高蛋白低负担，饱腹感绝了，一整个上午都不会饿。」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：共鸣感、实用导向",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn9Cwamkfr4txvwBW1xRQRfd",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【15-30s】制作过程 + 产品第一次露出\n口播：「先准备一盒轻醒的希腊酸奶，0蔗糖的哈，这个蛋白质含量很高。倒到碗里，你看这个质地——」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：自然、随性，像在展示自己日常在用的东西",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnAIcxjGTTCid3LmZum0K2Ph",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【30-45s】搭配过程 + 营养数据\n口播：「加点蓝莓和燕麦片进去，这个蓝莓味的轻醒本身就带果粒，但我还是喜欢自己再加一点。一杯下来蛋白质大概有15g左右，碳水也控制住了。」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：轻松科普、数据化表达",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnlJlPsvqLwU50Qt5yG2dnbe",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【45-55s】成品展示 + 产品第二次露出\n口播：「你看，就这么简单。旁边再放一盒黄桃味的当加餐，下午饿的时候来一盒，比零食健康多了。」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：满足感、分享感",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnryHUYSKvZTIcWgKGKuDrPg",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【55-65s】食用镜头 + 真实感受\n口播：「我先替你们尝一口——嗯，浓稠度真的很可以，不是那种稀的酸奶，吃起来像希腊酸奶该有的样子。」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：真实体验、自然种草",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnAtVsj9pLB3F7eLdKBO94kv",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "【65-75s】互动引导 + 收尾\n口播：「姐妹们你们早餐一般都怎么搭配？评论区交流一下！咱们一起打卡，明天见！」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "语气：亲切、邀请感",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcncn5U1OZie4u4ME4Hf4qDpm",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "三、产品植入点详解",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnyGDDQLUnOhyzqDmufpPLDd",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "本视频共设置4个产品植入点，覆盖制作流程、视觉种草、数据背书、场景延伸四个维度，确保产品自然融入且不遗漏核心卖点。",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "block_type": 31,
+    "children": [
+      "doxcnlpg6D3ceabsSCZQTWpDygb",
+      "doxcnK9TOVxoNwyEtsE9nF6d1fg",
+      "doxcnzIWx2DdKpXKq9LmelUy8cd",
+      "doxcnrggT9NPibor3F2v542gvjg",
+      "doxcn1Lou56b5Op1Fb8xXhznhcd",
+      "doxcnSqETxXbFwnfcIeNORDs5Ch",
+      "doxcnfczcxGuC7VBJVv8uh7rnvc",
+      "doxcndyMWjTQawQ1himNU5uCPUe",
+      "doxcnp4hVqVy6SJXscEj8u4KmFe",
+      "doxcn4wA9f50w1uvBoyGGzyqRdd",
+      "doxcnJKkvc9EaRlk8a96w4xltZf",
+      "doxcnWkSfUb6gYIKjAmUAygzbtg",
+      "doxcnuoZXkuUMba3DfgNsbuwunf",
+      "doxcnZSblpMK8XY2sGHV5SlTphf",
+      "doxcnD0ny7GtDUjykvdy6XwYqhe",
+      "doxcnTUDUkDfn0I13TNGVmDZbkd",
+      "doxcnuM7EKoOT7Al35GBNZZ7uif",
+      "doxcn8cXK9D6LBJYGswmG5RYCzd",
+      "doxcnCEdlfZ1NrsuREYqp9I8E3c",
+      "doxcnhYHqpHXWhwpXqG0hbQLSNh",
+      "doxcnKFfaYy09pGmg2GC6Ig35hc",
+      "doxcn9D7C1oK3MEkED8KHi1fiUc",
+      "doxcnTOMfUitq0GGlbsW27cDArf",
+      "doxcnyJlYcB2IROv56X7cuUAlTg",
+      "doxcnYiU2SZubksq76bcxCxphLh"
+    ],
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "table": {
+      "cells": [
+        "doxcnlpg6D3ceabsSCZQTWpDygb",
+        "doxcnK9TOVxoNwyEtsE9nF6d1fg",
+        "doxcnzIWx2DdKpXKq9LmelUy8cd",
+        "doxcnrggT9NPibor3F2v542gvjg",
+        "doxcn1Lou56b5Op1Fb8xXhznhcd",
+        "doxcnSqETxXbFwnfcIeNORDs5Ch",
+        "doxcnfczcxGuC7VBJVv8uh7rnvc",
+        "doxcndyMWjTQawQ1himNU5uCPUe",
+        "doxcnp4hVqVy6SJXscEj8u4KmFe",
+        "doxcn4wA9f50w1uvBoyGGzyqRdd",
+        "doxcnJKkvc9EaRlk8a96w4xltZf",
+        "doxcnWkSfUb6gYIKjAmUAygzbtg",
+        "doxcnuoZXkuUMba3DfgNsbuwunf",
+        "doxcnZSblpMK8XY2sGHV5SlTphf",
+        "doxcnD0ny7GtDUjykvdy6XwYqhe",
+        "doxcnTUDUkDfn0I13TNGVmDZbkd",
+        "doxcnuM7EKoOT7Al35GBNZZ7uif",
+        "doxcn8cXK9D6LBJYGswmG5RYCzd",
+        "doxcnCEdlfZ1NrsuREYqp9I8E3c",
+        "doxcnhYHqpHXWhwpXqG0hbQLSNh",
+        "doxcnKFfaYy09pGmg2GC6Ig35hc",
+        "doxcn9D7C1oK3MEkED8KHi1fiUc",
+        "doxcnTOMfUitq0GGlbsW27cDArf",
+        "doxcnyJlYcB2IROv56X7cuUAlTg",
+        "doxcnYiU2SZubksq76bcxCxphLh"
+      ],
+      "property": {
+        "column_size": 5,
+        "column_width": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "merge_info": [
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          }
+        ],
+        "row_size": 5
+      }
+    }
+  },
+  {
+    "block_id": "doxcnlpg6D3ceabsSCZQTWpDygb",
+    "block_type": 32,
+    "children": [
+      "doxcnOaHpusibDvzxdPUP3yJr8c"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnOaHpusibDvzxdPUP3yJr8c",
+    "block_type": 2,
+    "parent_id": "doxcnlpg6D3ceabsSCZQTWpDygb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "#",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnK9TOVxoNwyEtsE9nF6d1fg",
+    "block_type": 32,
+    "children": [
+      "doxcnhNcKclE9JHwrz1vrGEfSBh"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnhNcKclE9JHwrz1vrGEfSBh",
+    "block_type": 2,
+    "parent_id": "doxcnK9TOVxoNwyEtsE9nF6d1fg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "植入时机",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnzIWx2DdKpXKq9LmelUy8cd",
+    "block_type": 32,
+    "children": [
+      "doxcnzmtxCsyl18hpC6rb64v6Qe"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnzmtxCsyl18hpC6rb64v6Qe",
+    "block_type": 2,
+    "parent_id": "doxcnzIWx2DdKpXKq9LmelUy8cd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "植入方式",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrggT9NPibor3F2v542gvjg",
+    "block_type": 32,
+    "children": [
+      "doxcnupiucMcIMi9buP6KSaVP9f"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnupiucMcIMi9buP6KSaVP9f",
+    "block_type": 2,
+    "parent_id": "doxcnrggT9NPibor3F2v542gvjg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "植入话术",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn1Lou56b5Op1Fb8xXhznhcd",
+    "block_type": 32,
+    "children": [
+      "doxcn5JleQW7zQ1tTVvm7ny41df"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn5JleQW7zQ1tTVvm7ny41df",
+    "block_type": 2,
+    "parent_id": "doxcn1Lou56b5Op1Fb8xXhznhcd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "植入理由",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnSqETxXbFwnfcIeNORDs5Ch",
+    "block_type": 32,
+    "children": [
+      "doxcnkbXCsnv27sjQ7MPxHifYUb"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnkbXCsnv27sjQ7MPxHifYUb",
+    "block_type": 2,
+    "parent_id": "doxcnSqETxXbFwnfcIeNORDs5Ch",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "1",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnfczcxGuC7VBJVv8uh7rnvc",
+    "block_type": 32,
+    "children": [
+      "doxcnqcmVTkkBeJyLcq8HXyMtFg"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnqcmVTkkBeJyLcq8HXyMtFg",
+    "block_type": 2,
+    "parent_id": "doxcnfczcxGuC7VBJVv8uh7rnvc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "15-20s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcndyMWjTQawQ1himNU5uCPUe",
+    "block_type": 32,
+    "children": [
+      "doxcnXaaWL6wXZmikfENoDhLfPe"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnXaaWL6wXZmikfENoDhLfPe",
+    "block_type": 2,
+    "parent_id": "doxcndyMWjTQawQ1himNU5uCPUe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "画面展示+口播",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnp4hVqVy6SJXscEj8u4KmFe",
+    "block_type": 32,
+    "children": [
+      "doxcntIjvYOYBHj5OwCBmGys4Qf"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcntIjvYOYBHj5OwCBmGys4Qf",
+    "block_type": 2,
+    "parent_id": "doxcnp4hVqVy6SJXscEj8u4KmFe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "「先准备一盒轻醒的希腊酸奶，0蔗糖的哈」",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn4wA9f50w1uvBoyGGzyqRdd",
+    "block_type": 32,
+    "children": [
+      "doxcnx6iMXeSWvWhzJdv3l6GsUg"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnx6iMXeSWvWhzJdv3l6GsUg",
+    "block_type": 2,
+    "parent_id": "doxcn4wA9f50w1uvBoyGGzyqRdd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "制作流程中的自然开场，作为食材之一出现，不是单独介绍",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnJKkvc9EaRlk8a96w4xltZf",
+    "block_type": 32,
+    "children": [
+      "doxcnX2BW9M9lKT8kRZfNrdGtjd"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnX2BW9M9lKT8kRZfNrdGtjd",
+    "block_type": 2,
+    "parent_id": "doxcnJKkvc9EaRlk8a96w4xltZf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "2",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnWkSfUb6gYIKjAmUAygzbtg",
+    "block_type": 32,
+    "children": [
+      "doxcneJvM2geakl2uGeH4UNZIec"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcneJvM2geakl2uGeH4UNZIec",
+    "block_type": 2,
+    "parent_id": "doxcnWkSfUb6gYIKjAmUAygzbtg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "20-25s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnuoZXkuUMba3DfgNsbuwunf",
+    "block_type": 32,
+    "children": [
+      "doxcn3Y27QW7xKtK2ejb0VGynHf"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn3Y27QW7xKtK2ejb0VGynHf",
+    "block_type": 2,
+    "parent_id": "doxcnuoZXkuUMba3DfgNsbuwunf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "画面特写",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnZSblpMK8XY2sGHV5SlTphf",
+    "block_type": 32,
+    "children": [
+      "doxcnzEt1mvH86LZba8XSgsuYbh"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnzEt1mvH86LZba8XSgsuYbh",
+    "block_type": 2,
+    "parent_id": "doxcnZSblpMK8XY2sGHV5SlTphf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "（无口播，仅酸奶开盖、倒出浓稠质地的画面）",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnD0ny7GtDUjykvdy6XwYqhe",
+    "block_type": 32,
+    "children": [
+      "doxcnDWU4n0MmfSSgFzfea2J0Ze"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnDWU4n0MmfSSgFzfea2J0Ze",
+    "block_type": 2,
+    "parent_id": "doxcnD0ny7GtDUjykvdy6XwYqhe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "视觉种草，用质地打动观众，不说话比说话更有说服力",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnTUDUkDfn0I13TNGVmDZbkd",
+    "block_type": 32,
+    "children": [
+      "doxcnLsDzRZVfr8TstSF7PeImmb"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnLsDzRZVfr8TstSF7PeImmb",
+    "block_type": 2,
+    "parent_id": "doxcnTUDUkDfn0I13TNGVmDZbkd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "3",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnuM7EKoOT7Al35GBNZZ7uif",
+    "block_type": 32,
+    "children": [
+      "doxcntthue2SbMAflvbSVXaQTJg"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcntthue2SbMAflvbSVXaQTJg",
+    "block_type": 2,
+    "parent_id": "doxcnuM7EKoOT7Al35GBNZZ7uif",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "30-40s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn8cXK9D6LBJYGswmG5RYCzd",
+    "block_type": 32,
+    "children": [
+      "doxcnstifTrPruCyvmjfiN9294c"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnstifTrPruCyvmjfiN9294c",
+    "block_type": 2,
+    "parent_id": "doxcn8cXK9D6LBJYGswmG5RYCzd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播+数据",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnCEdlfZ1NrsuREYqp9I8E3c",
+    "block_type": 32,
+    "children": [
+      "doxcn6ghPghC058IRyxzycCsXbb"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn6ghPghC058IRyxzycCsXbb",
+    "block_type": 2,
+    "parent_id": "doxcnCEdlfZ1NrsuREYqp9I8E3c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "「一杯下来蛋白质大概有15g左右」",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnhYHqpHXWhwpXqG0hbQLSNh",
+    "block_type": 32,
+    "children": [
+      "doxcn9k2SKmzTvjVm83n6UHQ6re"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn9k2SKmzTvjVm83n6UHQ6re",
+    "block_type": 2,
+    "parent_id": "doxcnhYHqpHXWhwpXqG0hbQLSNh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "在营养搭配逻辑中自然带出产品优势，数据化表达增加可信度",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnKFfaYy09pGmg2GC6Ig35hc",
+    "block_type": 32,
+    "children": [
+      "doxcnDRh9WuZNw9W4FC8GEJDkuf"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnDRh9WuZNw9W4FC8GEJDkuf",
+    "block_type": 2,
+    "parent_id": "doxcnKFfaYy09pGmg2GC6Ig35hc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "4",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn9D7C1oK3MEkED8KHi1fiUc",
+    "block_type": 32,
+    "children": [
+      "doxcncJovffg6W1wq7ZHGhU7bwe"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcncJovffg6W1wq7ZHGhU7bwe",
+    "block_type": 2,
+    "parent_id": "doxcn9D7C1oK3MEkED8KHi1fiUc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "45-55s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnTOMfUitq0GGlbsW27cDArf",
+    "block_type": 32,
+    "children": [
+      "doxcnNCMLDPhaJ24sYCi3JFK8pd"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnNCMLDPhaJ24sYCi3JFK8pd",
+    "block_type": 2,
+    "parent_id": "doxcnTOMfUitq0GGlbsW27cDArf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "场景延伸",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnyJlYcB2IROv56X7cuUAlTg",
+    "block_type": 32,
+    "children": [
+      "doxcn9aGZH7mDBXCclofhMGFLKf"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn9aGZH7mDBXCclofhMGFLKf",
+    "block_type": 2,
+    "parent_id": "doxcnyJlYcB2IROv56X7cuUAlTg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "「旁边再放一盒黄桃味的当加餐」",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnYiU2SZubksq76bcxCxphLh",
+    "block_type": 32,
+    "children": [
+      "doxcn5eAdT01e5xVO8qSyaPmlqc"
+    ],
+    "parent_id": "doxcnyAgAV8bC8SwRZnmzy9x1re",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn5eAdT01e5xVO8qSyaPmlqc",
+    "block_type": 2,
+    "parent_id": "doxcnYiU2SZubksq76bcxCxphLh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "拓展使用场景（下午茶），自然展示多口味，不显刻意",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnGdTTaL4bJJYN95KIfwksbc",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "四、分镜设计",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "block_type": 31,
+    "children": [
+      "doxcn0ica7O6l6nIfT6TY1b2IWh",
+      "doxcnrWhlUYR26Nah7kiUJCb3ub",
+      "doxcn3pG7We5wb0D8zFxVNxPSoh",
+      "doxcneKkhTIzPDyH6SAyyzCMc7c",
+      "doxcn8DrIM1mIE0h35nrA5O9f4d",
+      "doxcngdoBJAYJjVrxiCTYV2R07g",
+      "doxcnk0sYsNXRILazmOtRQGc9De",
+      "doxcnePnjlnMwSeFPx5JM3bPmce",
+      "doxcnAKtZHDEMgsLW4DDHKdS9mb",
+      "doxcnR51Gg9ldzkTZL9rVw7AYFe",
+      "doxcnhffySvwjallMWPqYkXWTbc",
+      "doxcnaHs3tyvZdhUJSclxpVqdjh",
+      "doxcnGHMQAtqPzucXGYFWDncYOg",
+      "doxcnvaFjCfnkYnMcnKFaLriNqh",
+      "doxcnzjcvpf1O9EjqoyhmAPNJjh",
+      "doxcnn9nS6F4fMQb3GG0MgLAl4g",
+      "doxcnFd3rPg1FLAsiMQ7iMC6ucg",
+      "doxcnF8xDbGRRx3c6eWou1Yij2f",
+      "doxcnzRFKi2VkNlVX3Tk5EOcXOh",
+      "doxcnqytwVmtmL3wQaDUR15jJqh",
+      "doxcnhYp0CrxtKcjqepc8JnexOb",
+      "doxcngaif0Uog8xVyoiKOnVn9rg",
+      "doxcnzTXYAarFwa4hOkW0Vxol1c",
+      "doxcnaMseI0WllCPRkrsPPU2sYg",
+      "doxcnSfb0RJzPm93NlZx3tEjSdh",
+      "doxcnvT6dyhofL2aL7Nr8jOvAEd",
+      "doxcnpbbMILRAtLm1Uuoc8tenZb",
+      "doxcnpJuhGWOmUc01E9cwCaguEc",
+      "doxcnXepNpEqR5C6xQQw3QvYtbb",
+      "doxcn3HlvAKFm7y8t718583WSmb",
+      "doxcn2ui73zDOtepzLKgqwm52Zc",
+      "doxcnurNtO7DW2tCvjaoQM6p31f",
+      "doxcnEIV6qoaL2nfyeV5VPosWGd",
+      "doxcn2WfduAFpTulrfSZV3nFm4e",
+      "doxcnpSSbR09uqW2TZ9LE4Adfsb",
+      "doxcndauL0q27ZyDOneXGAaSqbf",
+      "doxcnnOEH0tlXX8851jG1Qfimvh",
+      "doxcnxzoIwqpn0aINxPX7PfX5rd",
+      "doxcnrTIX0uWHpF7bCMQBqXGGPe",
+      "doxcnVnxyJPFuNKYD0DQYtq0Lkg",
+      "doxcnHrXlz1VOJBAq7wPPwZoLGd",
+      "doxcn5zmhv9nL6vAmLMvfj2SpTe",
+      "doxcnol30ut9eLiZgaBTdIOQMqb",
+      "doxcnSP4mkUGZLAdHxGylxBIajc",
+      "doxcnPaWApD3jpyq3EYUHvF1JRb",
+      "doxcnyajbH6eqSUjmFZJZM6uNrd",
+      "doxcn0cwSxreb695CqIvCwADPdh",
+      "doxcnQwyutzomdUuHkrqJqPgMlh",
+      "doxcnOUdRhkGPEfJ6u5fbjK73Ge",
+      "doxcnrqXxRMIKfcCM4ewX1uRg8b",
+      "doxcnSVjNfmD3a3BM3DdY86MDlh",
+      "doxcnyZe5xvVLJgIDJSPJRBiKPd",
+      "doxcnXIdpL2FmGusxn0HpUbnOdf",
+      "doxcnYIepziKz8PQ51ouk93H6Ae",
+      "doxcnL15qXmBWp70tjfl4Y7RUsc",
+      "doxcnaXIbvMYqiKZyuynej0PPxh",
+      "doxcnwFWrNEV9guvmMaQQpK4DYb",
+      "doxcnfmcmyjoLZziEwlXguWDCIb",
+      "doxcnvsjaf0ycGGcAnSYLMDNCKh",
+      "doxcn5UzHiRzA3wRoEhsFY9Ib5f",
+      "doxcnhhnF22a6yBwvTi9Z2CC1Zc",
+      "doxcnzDpGeMNifq7VzBeRqcZ9sb",
+      "doxcn4ir92pLA30oSZjACHghtob",
+      "doxcnV9siezF7JTlLWABnbL5eof",
+      "doxcnjzIaHNaPsnGI0qHuPrPX3c",
+      "doxcnvN5SdauNW44KKM5E29Z14e",
+      "doxcnd2MYLEMIBsxWq7sNAQKOsc",
+      "doxcnd3xKKs3zit0KIjmg0XThQd",
+      "doxcn3LEW9WiArtqf3e6Svcl1cd",
+      "doxcnqbEjw4yQYPcNmhhvbvQOkc",
+      "doxcn1KLvsYhBRKFjyv69h1a9Cg",
+      "doxcnNzktrewoe5iyBEu9DJUl4c",
+      "doxcncJBteMgY8plMo6GnQveNJf",
+      "doxcnUkvLfs4UYEAgGnLU9nXspe",
+      "doxcnxfoYeuS370jfU0UeE9DuEc",
+      "doxcntBaxUv6AaIBxAZSbd1lKMf",
+      "doxcnrsmOOVjsYwF5U6Y4JM8Ywg",
+      "doxcnRrIW9TpTAZiQz65d9daANf",
+      "doxcnk80P8Ky5xZjih6FCicSEQg",
+      "doxcnwyEGdH93hNqCRNHYyMCxZf",
+      "doxcnspHZ8asY97ehlaJS7UCrrh",
+      "doxcn96NvDvXsrKcPTLQo2QBXAg",
+      "doxcnOf0pWKpr2G5rVdSpUZpVfc",
+      "doxcnvvhn1hbCx4vnFDskMOjtmd"
+    ],
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "table": {
+      "cells": [
+        "doxcn0ica7O6l6nIfT6TY1b2IWh",
+        "doxcnrWhlUYR26Nah7kiUJCb3ub",
+        "doxcn3pG7We5wb0D8zFxVNxPSoh",
+        "doxcneKkhTIzPDyH6SAyyzCMc7c",
+        "doxcn8DrIM1mIE0h35nrA5O9f4d",
+        "doxcngdoBJAYJjVrxiCTYV2R07g",
+        "doxcnk0sYsNXRILazmOtRQGc9De",
+        "doxcnePnjlnMwSeFPx5JM3bPmce",
+        "doxcnAKtZHDEMgsLW4DDHKdS9mb",
+        "doxcnR51Gg9ldzkTZL9rVw7AYFe",
+        "doxcnhffySvwjallMWPqYkXWTbc",
+        "doxcnaHs3tyvZdhUJSclxpVqdjh",
+        "doxcnGHMQAtqPzucXGYFWDncYOg",
+        "doxcnvaFjCfnkYnMcnKFaLriNqh",
+        "doxcnzjcvpf1O9EjqoyhmAPNJjh",
+        "doxcnn9nS6F4fMQb3GG0MgLAl4g",
+        "doxcnFd3rPg1FLAsiMQ7iMC6ucg",
+        "doxcnF8xDbGRRx3c6eWou1Yij2f",
+        "doxcnzRFKi2VkNlVX3Tk5EOcXOh",
+        "doxcnqytwVmtmL3wQaDUR15jJqh",
+        "doxcnhYp0CrxtKcjqepc8JnexOb",
+        "doxcngaif0Uog8xVyoiKOnVn9rg",
+        "doxcnzTXYAarFwa4hOkW0Vxol1c",
+        "doxcnaMseI0WllCPRkrsPPU2sYg",
+        "doxcnSfb0RJzPm93NlZx3tEjSdh",
+        "doxcnvT6dyhofL2aL7Nr8jOvAEd",
+        "doxcnpbbMILRAtLm1Uuoc8tenZb",
+        "doxcnpJuhGWOmUc01E9cwCaguEc",
+        "doxcnXepNpEqR5C6xQQw3QvYtbb",
+        "doxcn3HlvAKFm7y8t718583WSmb",
+        "doxcn2ui73zDOtepzLKgqwm52Zc",
+        "doxcnurNtO7DW2tCvjaoQM6p31f",
+        "doxcnEIV6qoaL2nfyeV5VPosWGd",
+        "doxcn2WfduAFpTulrfSZV3nFm4e",
+        "doxcnpSSbR09uqW2TZ9LE4Adfsb",
+        "doxcndauL0q27ZyDOneXGAaSqbf",
+        "doxcnnOEH0tlXX8851jG1Qfimvh",
+        "doxcnxzoIwqpn0aINxPX7PfX5rd",
+        "doxcnrTIX0uWHpF7bCMQBqXGGPe",
+        "doxcnVnxyJPFuNKYD0DQYtq0Lkg",
+        "doxcnHrXlz1VOJBAq7wPPwZoLGd",
+        "doxcn5zmhv9nL6vAmLMvfj2SpTe",
+        "doxcnol30ut9eLiZgaBTdIOQMqb",
+        "doxcnSP4mkUGZLAdHxGylxBIajc",
+        "doxcnPaWApD3jpyq3EYUHvF1JRb",
+        "doxcnyajbH6eqSUjmFZJZM6uNrd",
+        "doxcn0cwSxreb695CqIvCwADPdh",
+        "doxcnQwyutzomdUuHkrqJqPgMlh",
+        "doxcnOUdRhkGPEfJ6u5fbjK73Ge",
+        "doxcnrqXxRMIKfcCM4ewX1uRg8b",
+        "doxcnSVjNfmD3a3BM3DdY86MDlh",
+        "doxcnyZe5xvVLJgIDJSPJRBiKPd",
+        "doxcnXIdpL2FmGusxn0HpUbnOdf",
+        "doxcnYIepziKz8PQ51ouk93H6Ae",
+        "doxcnL15qXmBWp70tjfl4Y7RUsc",
+        "doxcnaXIbvMYqiKZyuynej0PPxh",
+        "doxcnwFWrNEV9guvmMaQQpK4DYb",
+        "doxcnfmcmyjoLZziEwlXguWDCIb",
+        "doxcnvsjaf0ycGGcAnSYLMDNCKh",
+        "doxcn5UzHiRzA3wRoEhsFY9Ib5f",
+        "doxcnhhnF22a6yBwvTi9Z2CC1Zc",
+        "doxcnzDpGeMNifq7VzBeRqcZ9sb",
+        "doxcn4ir92pLA30oSZjACHghtob",
+        "doxcnV9siezF7JTlLWABnbL5eof",
+        "doxcnjzIaHNaPsnGI0qHuPrPX3c",
+        "doxcnvN5SdauNW44KKM5E29Z14e",
+        "doxcnd2MYLEMIBsxWq7sNAQKOsc",
+        "doxcnd3xKKs3zit0KIjmg0XThQd",
+        "doxcn3LEW9WiArtqf3e6Svcl1cd",
+        "doxcnqbEjw4yQYPcNmhhvbvQOkc",
+        "doxcn1KLvsYhBRKFjyv69h1a9Cg",
+        "doxcnNzktrewoe5iyBEu9DJUl4c",
+        "doxcncJBteMgY8plMo6GnQveNJf",
+        "doxcnUkvLfs4UYEAgGnLU9nXspe",
+        "doxcnxfoYeuS370jfU0UeE9DuEc",
+        "doxcntBaxUv6AaIBxAZSbd1lKMf",
+        "doxcnrsmOOVjsYwF5U6Y4JM8Ywg",
+        "doxcnRrIW9TpTAZiQz65d9daANf",
+        "doxcnk80P8Ky5xZjih6FCicSEQg",
+        "doxcnwyEGdH93hNqCRNHYyMCxZf",
+        "doxcnspHZ8asY97ehlaJS7UCrrh",
+        "doxcn96NvDvXsrKcPTLQo2QBXAg",
+        "doxcnOf0pWKpr2G5rVdSpUZpVfc",
+        "doxcnvvhn1hbCx4vnFDskMOjtmd"
+      ],
+      "property": {
+        "column_size": 6,
+        "column_width": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "merge_info": [
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          }
+        ],
+        "row_size": 14
+      }
+    }
+  },
+  {
+    "block_id": "doxcn0ica7O6l6nIfT6TY1b2IWh",
+    "block_type": 32,
+    "children": [
+      "doxcn7J5M9nM8krIOKecQxiMJpc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn7J5M9nM8krIOKecQxiMJpc",
+    "block_type": 2,
+    "parent_id": "doxcn0ica7O6l6nIfT6TY1b2IWh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "镜头",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrWhlUYR26Nah7kiUJCb3ub",
+    "block_type": 32,
+    "children": [
+      "doxcnRDdWVK2nUbrbdEvrwbGjee"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnRDdWVK2nUbrbdEvrwbGjee",
+    "block_type": 2,
+    "parent_id": "doxcnrWhlUYR26Nah7kiUJCb3ub",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "时间",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn3pG7We5wb0D8zFxVNxPSoh",
+    "block_type": 32,
+    "children": [
+      "doxcnxLZ3N1ZSO1Q0iDWhbHZR6d"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnxLZ3N1ZSO1Q0iDWhbHZR6d",
+    "block_type": 2,
+    "parent_id": "doxcn3pG7We5wb0D8zFxVNxPSoh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "画面描述",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcneKkhTIzPDyH6SAyyzCMc7c",
+    "block_type": 32,
+    "children": [
+      "doxcntsX0QVa77v6G0psxoi9Xlc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcntsX0QVa77v6G0psxoi9Xlc",
+    "block_type": 2,
+    "parent_id": "doxcneKkhTIzPDyH6SAyyzCMc7c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播/字幕",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn8DrIM1mIE0h35nrA5O9f4d",
+    "block_type": 32,
+    "children": [
+      "doxcn6jEOJ31oaeiKNNuFxMor7g"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn6jEOJ31oaeiKNNuFxMor7g",
+    "block_type": 2,
+    "parent_id": "doxcn8DrIM1mIE0h35nrA5O9f4d",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "景别",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcngdoBJAYJjVrxiCTYV2R07g",
+    "block_type": 32,
+    "children": [
+      "doxcnKpUFaccPZz0CFZYFaxzenf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnKpUFaccPZz0CFZYFaxzenf",
+    "block_type": 2,
+    "parent_id": "doxcngdoBJAYJjVrxiCTYV2R07g",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "备注",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnk0sYsNXRILazmOtRQGc9De",
+    "block_type": 32,
+    "children": [
+      "doxcnqdFQBZrSGlAoo4XcEC1axe"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnqdFQBZrSGlAoo4XcEC1axe",
+    "block_type": 2,
+    "parent_id": "doxcnk0sYsNXRILazmOtRQGc9De",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "1",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnePnjlnMwSeFPx5JM3bPmce",
+    "block_type": 32,
+    "children": [
+      "doxcnskzdK4V2LQvErwhuY9GkZf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnskzdK4V2LQvErwhuY9GkZf",
+    "block_type": 2,
+    "parent_id": "doxcnePnjlnMwSeFPx5JM3bPmce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "0-3s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnAKtZHDEMgsLW4DDHKdS9mb",
+    "block_type": 32,
+    "children": [
+      "doxcnvI0wHHW7cl6PQ2xTEOFknb"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnvI0wHHW7cl6PQ2xTEOFknb",
+    "block_type": 2,
+    "parent_id": "doxcnAKtZHDEMgsLW4DDHKdS9mb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍桌面，便当盒+轻醒酸奶+水果已摆好，手从画面外伸入比个\"OK\"",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnR51Gg9ldzkTZL9rVw7AYFe",
+    "block_type": 32,
+    "children": [
+      "doxcnAbuKVLw4PzmxoXU1Hf9Aje"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnAbuKVLw4PzmxoXU1Hf9Aje",
+    "block_type": 2,
+    "parent_id": "doxcnR51Gg9ldzkTZL9rVw7AYFe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「姐妹们！减脂早餐第28天！」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：减脂早餐Day28✨",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnhffySvwjallMWPqYkXWTbc",
+    "block_type": 32,
+    "children": [
+      "doxcnlxwcZ2ZKWwuMODGNSEWuNc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnlxwcZ2ZKWwuMODGNSEWuNc",
+    "block_type": 2,
+    "parent_id": "doxcnhffySvwjallMWPqYkXWTbc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍全景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnaHs3tyvZdhUJSclxpVqdjh",
+    "block_type": 32,
+    "children": [
+      "doxcnoz1aGstU1tamDSe0J5lNBe"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnoz1aGstU1tamDSe0J5lNBe",
+    "block_type": 2,
+    "parent_id": "doxcnaHs3tyvZdhUJSclxpVqdjh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "封面镜头，要有视觉冲击力，食材颜色搭配鲜艳",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnGHMQAtqPzucXGYFWDncYOg",
+    "block_type": 32,
+    "children": [
+      "doxcnOaN8zXoqrQSarMc0axWLtd"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnOaN8zXoqrQSarMc0axWLtd",
+    "block_type": 2,
+    "parent_id": "doxcnGHMQAtqPzucXGYFWDncYOg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "2",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnvaFjCfnkYnMcnKFaLriNqh",
+    "block_type": 32,
+    "children": [
+      "doxcnAXjQso5xuQbqFH6auDlRHh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnAXjQso5xuQbqFH6auDlRHh",
+    "block_type": 2,
+    "parent_id": "doxcnvaFjCfnkYnMcnKFaLriNqh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "3-5s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnzjcvpf1O9EjqoyhmAPNJjh",
+    "block_type": 32,
+    "children": [
+      "doxcn1pIVBwWduM0AidlKZdRhUh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn1pIVBwWduM0AidlKZdRhUh",
+    "block_type": 2,
+    "parent_id": "doxcnzjcvpf1O9EjqoyhmAPNJjh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "同上画面，手拿起轻醒酸奶晃一下",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnn9nS6F4fMQb3GG0MgLAl4g",
+    "block_type": 32,
+    "children": [
+      "doxcnRenEp3hhowUZcfVHOa6xdf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnRenEp3hhowUZcfVHOa6xdf",
+    "block_type": 2,
+    "parent_id": "doxcnn9nS6F4fMQb3GG0MgLAl4g",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「今天这个搭配我真的要吃一辈子！」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：今天要吃的搭配绝了！",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnFd3rPg1FLAsiMQ7iMC6ucg",
+    "block_type": 32,
+    "children": [
+      "doxcnLEpvVlG3wQGUnlSAK2lG3b"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnLEpvVlG3wQGUnlSAK2lG3b",
+    "block_type": 2,
+    "parent_id": "doxcnFd3rPg1FLAsiMQ7iMC6ucg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍中景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnF8xDbGRRx3c6eWou1Yij2f",
+    "block_type": 32,
+    "children": [
+      "doxcnNpMLdpWvKvhTbvIdz3gvMg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnNpMLdpWvKvhTbvIdz3gvMg",
+    "block_type": 2,
+    "parent_id": "doxcnF8xDbGRRx3c6eWou1Yij2f",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "酸奶包装清晰可见但不刻意对logo",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnzRFKi2VkNlVX3Tk5EOcXOh",
+    "block_type": 32,
+    "children": [
+      "doxcnPy91EV2qH3NmuGelviAoDh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnPy91EV2qH3NmuGelviAoDh",
+    "block_type": 2,
+    "parent_id": "doxcnzRFKi2VkNlVX3Tk5EOcXOh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "3",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnqytwVmtmL3wQaDUR15jJqh",
+    "block_type": 32,
+    "children": [
+      "doxcn58Vh6PGyjahHQdfakBv4wc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn58Vh6PGyjahHQdfakBv4wc",
+    "block_type": 2,
+    "parent_id": "doxcnqytwVmtmL3wQaDUR15jJqh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "5-10s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnhYp0CrxtKcjqepc8JnexOb",
+    "block_type": 32,
+    "children": [
+      "doxcnDiUaF81C78PIj81Yhu6e1g"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnDiUaF81C78PIj81Yhu6e1g",
+    "block_type": 2,
+    "parent_id": "doxcnhYp0CrxtKcjqepc8JnexOb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "闹钟画面→手关掉闹钟→第一视角走进厨房",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcngaif0Uog8xVyoiKOnVn9rg",
+    "block_type": 32,
+    "children": [
+      "doxcnls8aoMv0s6mLLS1q5ZYBjc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnls8aoMv0s6mLLS1q5ZYBjc",
+    "block_type": 2,
+    "parent_id": "doxcngaif0Uog8xVyoiKOnVn9rg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「打工人早上真的起不来对吧？」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：打工人の真实早晨😴",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnzTXYAarFwa4hOkW0Vxol1c",
+    "block_type": 32,
+    "children": [
+      "doxcnP1mkvGR21rYOphp6W1bEYc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnP1mkvGR21rYOphp6W1bEYc",
+    "block_type": 2,
+    "parent_id": "doxcnzTXYAarFwa4hOkW0Vxol1c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "第一视角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnaMseI0WllCPRkrsPPU2sYg",
+    "block_type": 32,
+    "children": [
+      "doxcn5Gwut0hqFFDOwOzphoPUUh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn5Gwut0hqFFDOwOzphoPUUh",
+    "block_type": 2,
+    "parent_id": "doxcnaMseI0WllCPRkrsPPU2sYg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "制造共鸣感，可用快速剪辑",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnSfb0RJzPm93NlZx3tEjSdh",
+    "block_type": 32,
+    "children": [
+      "doxcnHuPDDGxEvjTIAOLOZNCHwf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnHuPDDGxEvjTIAOLOZNCHwf",
+    "block_type": 2,
+    "parent_id": "doxcnSfb0RJzPm93NlZx3tEjSdh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "4",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnvT6dyhofL2aL7Nr8jOvAEd",
+    "block_type": 32,
+    "children": [
+      "doxcnKT4fCBhpUn7lCf382KmBhh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnKT4fCBhpUn7lCf382KmBhh",
+    "block_type": 2,
+    "parent_id": "doxcnvT6dyhofL2aL7Nr8jOvAEd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "10-15s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnpbbMILRAtLm1Uuoc8tenZb",
+    "block_type": 32,
+    "children": [
+      "doxcnV5IvrkdlXkzHOEOwyknNNh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnV5IvrkdlXkzHOEOwyknNNh",
+    "block_type": 2,
+    "parent_id": "doxcnpbbMILRAtLm1Uuoc8tenZb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "厨房台面，食材一字排开：轻醒酸奶、蓝莓、燕麦、便当盒",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnpJuhGWOmUc01E9cwCaguEc",
+    "block_type": 32,
+    "children": [
+      "doxcndje9x7ePnArD0ZiBwxgimc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcndje9x7ePnArD0ZiBwxgimc",
+    "block_type": 2,
+    "parent_id": "doxcnpJuhGWOmUc01E9cwCaguEc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「5分钟搞定，高蛋白低负担」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：5分钟⏰ 高蛋白低负担",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnXepNpEqR5C6xQQw3QvYtbb",
+    "block_type": 32,
+    "children": [
+      "doxcnk24gaJBpzL8NL8yp37DD4b"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnk24gaJBpzL8NL8yp37DD4b",
+    "block_type": 2,
+    "parent_id": "doxcnXepNpEqR5C6xQQw3QvYtbb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍全景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn3HlvAKFm7y8t718583WSmb",
+    "block_type": 32,
+    "children": [
+      "doxcngjseF951gk4VlwEm74qWrc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcngjseF951gk4VlwEm74qWrc",
+    "block_type": 2,
+    "parent_id": "doxcn3HlvAKFm7y8t718583WSmb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "食材整齐摆放，有仪式感",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2ui73zDOtepzLKgqwm52Zc",
+    "block_type": 32,
+    "children": [
+      "doxcna15jgsVf9BdoCJZoSauzIf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcna15jgsVf9BdoCJZoSauzIf",
+    "block_type": 2,
+    "parent_id": "doxcn2ui73zDOtepzLKgqwm52Zc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "5",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnurNtO7DW2tCvjaoQM6p31f",
+    "block_type": 32,
+    "children": [
+      "doxcnXrAAoRPS1oI5tMUgMssHif"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnXrAAoRPS1oI5tMUgMssHif",
+    "block_type": 2,
+    "parent_id": "doxcnurNtO7DW2tCvjaoQM6p31f",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "15-20s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnEIV6qoaL2nfyeV5VPosWGd",
+    "block_type": 32,
+    "children": [
+      "doxcnfPwJlJlESKuEbg3kGHIVTg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnfPwJlJlESKuEbg3kGHIVTg",
+    "block_type": 2,
+    "parent_id": "doxcnEIV6qoaL2nfyeV5VPosWGd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "手拿起轻醒酸奶，撕开盖子，镜头怼到杯口",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2WfduAFpTulrfSZV3nFm4e",
+    "block_type": 32,
+    "children": [
+      "doxcnZnZYmvrSrjes4tF6wjbSIg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnZnZYmvrSrjes4tF6wjbSIg",
+    "block_type": 2,
+    "parent_id": "doxcn2WfduAFpTulrfSZV3nFm4e",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「先准备一盒轻醒的希腊酸奶，0蔗糖的哈」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：轻醒0蔗糖希腊酸奶",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnpSSbR09uqW2TZ9LE4Adfsb",
+    "block_type": 32,
+    "children": [
+      "doxcnJaraIITlrGIaKiCiHAqT6e"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnJaraIITlrGIaKiCiHAqT6e",
+    "block_type": 2,
+    "parent_id": "doxcnpSSbR09uqW2TZ9LE4Adfsb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "特写",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcndauL0q27ZyDOneXGAaSqbf",
+    "block_type": 32,
+    "children": [
+      "doxcnv3OE8S0r2Jl4U0GWmONX9c"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnv3OE8S0r2Jl4U0GWmONX9c",
+    "block_type": 2,
+    "parent_id": "doxcndauL0q27ZyDOneXGAaSqbf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "关键镜头：撕盖动作要有仪式感，包装正面清晰",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnnOEH0tlXX8851jG1Qfimvh",
+    "block_type": 32,
+    "children": [
+      "doxcno97X9VnpefL6kJK7E7AGSc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcno97X9VnpefL6kJK7E7AGSc",
+    "block_type": 2,
+    "parent_id": "doxcnnOEH0tlXX8851jG1Qfimvh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "6",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnxzoIwqpn0aINxPX7PfX5rd",
+    "block_type": 32,
+    "children": [
+      "doxcnU2vQx9MAhGN23JcVaeVgZf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnU2vQx9MAhGN23JcVaeVgZf",
+    "block_type": 2,
+    "parent_id": "doxcnxzoIwqpn0aINxPX7PfX5rd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "20-25s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrTIX0uWHpF7bCMQBqXGGPe",
+    "block_type": 32,
+    "children": [
+      "doxcno3o2wLXGHuVc97JNu1m2Te"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcno3o2wLXGHuVc97JNu1m2Te",
+    "block_type": 2,
+    "parent_id": "doxcnrTIX0uWHpF7bCMQBqXGGPe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "酸奶倒入碗中，展示浓稠质地，酸奶缓慢流动",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnVnxyJPFuNKYD0DQYtq0Lkg",
+    "block_type": 32,
+    "children": [
+      "doxcnhVY9bDzKiHRN76cPisw9Rc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnhVY9bDzKiHRN76cPisw9Rc",
+    "block_type": 2,
+    "parent_id": "doxcnVnxyJPFuNKYD0DQYtq0Lkg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "（无口播，保留倒酸奶的真实声音）\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：看这个质地！！",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnHrXlz1VOJBAq7wPPwZoLGd",
+    "block_type": 32,
+    "children": [
+      "doxcnv4kbKe3lUugjbErzds5uUh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnv4kbKe3lUugjbErzds5uUh",
+    "block_type": 2,
+    "parent_id": "doxcnHrXlz1VOJBAq7wPPwZoLGd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "特写",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn5zmhv9nL6vAmLMvfj2SpTe",
+    "block_type": 32,
+    "children": [
+      "doxcnbHZMdS1MeSHF1r6wgI3dBg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnbHZMdS1MeSHF1r6wgI3dBg",
+    "block_type": 2,
+    "parent_id": "doxcn5zmhv9nL6vAmLMvfj2SpTe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "核心种草镜头：浓稠感是最大卖点，慢动作拍摄",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnol30ut9eLiZgaBTdIOQMqb",
+    "block_type": 32,
+    "children": [
+      "doxcnT4BJFKVNV3Q2FoyhSODD0f"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnT4BJFKVNV3Q2FoyhSODD0f",
+    "block_type": 2,
+    "parent_id": "doxcnol30ut9eLiZgaBTdIOQMqb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "7",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnSP4mkUGZLAdHxGylxBIajc",
+    "block_type": 32,
+    "children": [
+      "doxcnPtTnLBENit34EMvc7qkRBc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnPtTnLBENit34EMvc7qkRBc",
+    "block_type": 2,
+    "parent_id": "doxcnSP4mkUGZLAdHxGylxBIajc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "25-30s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnPaWApD3jpyq3EYUHvF1JRb",
+    "block_type": 32,
+    "children": [
+      "doxcnVLKJ3xxSnNmo7MtnTVVywd"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnVLKJ3xxSnNmo7MtnTVVywd",
+    "block_type": 2,
+    "parent_id": "doxcnPaWApD3jpyq3EYUHvF1JRb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "依次加入蓝莓、撒燕麦片，快剪节奏",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnyajbH6eqSUjmFZJZM6uNrd",
+    "block_type": 32,
+    "children": [
+      "doxcnRbBOpRVFgKvIhqpFIjt3Ph"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnRbBOpRVFgKvIhqpFIjt3Ph",
+    "block_type": 2,
+    "parent_id": "doxcnyajbH6eqSUjmFZJZM6uNrd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「加点蓝莓和燕麦片进去」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：蓝莓+燕麦=绝配🫐",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn0cwSxreb695CqIvCwADPdh",
+    "block_type": 32,
+    "children": [
+      "doxcnY08Nz8Lqya6RKx5q1qKkJf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnY08Nz8Lqya6RKx5q1qKkJf",
+    "block_type": 2,
+    "parent_id": "doxcn0cwSxreb695CqIvCwADPdh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍中景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnQwyutzomdUuHkrqJqPgMlh",
+    "block_type": 32,
+    "children": [
+      "doxcnXoR9Sv6lAXgNRw7t3bUDjg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnXoR9Sv6lAXgNRw7t3bUDjg",
+    "block_type": 2,
+    "parent_id": "doxcnQwyutzomdUuHkrqJqPgMlh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "快剪2-3个镜头，节奏感强",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnOUdRhkGPEfJ6u5fbjK73Ge",
+    "block_type": 32,
+    "children": [
+      "doxcnigoc6GR6UokQz0QcxVIVrb"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnigoc6GR6UokQz0QcxVIVrb",
+    "block_type": 2,
+    "parent_id": "doxcnOUdRhkGPEfJ6u5fbjK73Ge",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "8",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrqXxRMIKfcCM4ewX1uRg8b",
+    "block_type": 32,
+    "children": [
+      "doxcnwG6jXu2p9wwHEBR7wzfitc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnwG6jXu2p9wwHEBR7wzfitc",
+    "block_type": 2,
+    "parent_id": "doxcnrqXxRMIKfcCM4ewX1uRg8b",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "30-40s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnSVjNfmD3a3BM3DdY86MDlh",
+    "block_type": 32,
+    "children": [
+      "doxcnB0gz38g80lFq2gJTFCHYKf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnB0gz38g80lFq2gJTFCHYKf",
+    "block_type": 2,
+    "parent_id": "doxcnSVjNfmD3a3BM3DdY86MDlh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "搅拌碗中的酸奶水果燕麦，勺子舀起展示",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnyZe5xvVLJgIDJSPJRBiKPd",
+    "block_type": 32,
+    "children": [
+      "doxcn3HBk5nWe5nAvcYPrnTIQAc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn3HBk5nWe5nAvcYPrnTIQAc",
+    "block_type": 2,
+    "parent_id": "doxcnyZe5xvVLJgIDJSPJRBiKPd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「一杯下来蛋白质大概有15g左右，碳水也控制住了」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：蛋白质≈15g 💪 碳水可控",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnXIdpL2FmGusxn0HpUbnOdf",
+    "block_type": 32,
+    "children": [
+      "doxcniNxIILhCmneaUtrAoumvlb"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcniNxIILhCmneaUtrAoumvlb",
+    "block_type": 2,
+    "parent_id": "doxcnXIdpL2FmGusxn0HpUbnOdf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "特写→中景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnYIepziKz8PQ51ouk93H6Ae",
+    "block_type": 32,
+    "children": [
+      "doxcnnmZHnZUOrP84hwwtPWPvJg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnnmZHnZUOrP84hwwtPWPvJg",
+    "block_type": 2,
+    "parent_id": "doxcnYIepziKz8PQ51ouk93H6Ae",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "数据字幕用醒目字体",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnL15qXmBWp70tjfl4Y7RUsc",
+    "block_type": 32,
+    "children": [
+      "doxcnkz3aEhEWN7dmCAJddnj7Og"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnkz3aEhEWN7dmCAJddnj7Og",
+    "block_type": 2,
+    "parent_id": "doxcnL15qXmBWp70tjfl4Y7RUsc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "9",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnaXIbvMYqiKZyuynej0PPxh",
+    "block_type": 32,
+    "children": [
+      "doxcnv3ggyPE7tDjZV96LrYOdXf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnv3ggyPE7tDjZV96LrYOdXf",
+    "block_type": 2,
+    "parent_id": "doxcnaXIbvMYqiKZyuynej0PPxh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "40-45s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnwFWrNEV9guvmMaQQpK4DYb",
+    "block_type": 32,
+    "children": [
+      "doxcnJdW7AxGUZm0ekosbqumErd"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnJdW7AxGUZm0ekosbqumErd",
+    "block_type": 2,
+    "parent_id": "doxcnwFWrNEV9guvmMaQQpK4DYb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "成品碗放入便当盒旁，再摆一盒黄桃味轻醒酸奶",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnfmcmyjoLZziEwlXguWDCIb",
+    "block_type": 32,
+    "children": [
+      "doxcnf43VmWZGmlSgn0SaW8LZah"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnf43VmWZGmlSgn0SaW8LZah",
+    "block_type": 2,
+    "parent_id": "doxcnfmcmyjoLZziEwlXguWDCIb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「旁边再放一盒黄桃味的当加餐」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：黄桃味→下午加餐🍑",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnvsjaf0ycGGcAnSYLMDNCKh",
+    "block_type": 32,
+    "children": [
+      "doxcnFG3owgtvXv7YM3loiOybre"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnFG3owgtvXv7YM3loiOybre",
+    "block_type": 2,
+    "parent_id": "doxcnvsjaf0ycGGcAnSYLMDNCKh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍全景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn5UzHiRzA3wRoEhsFY9Ib5f",
+    "block_type": 32,
+    "children": [
+      "doxcnSueZoZdV7FsL1oost8x1bh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnSueZoZdV7FsL1oost8x1bh",
+    "block_type": 2,
+    "parent_id": "doxcn5UzHiRzA3wRoEhsFY9Ib5f",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "展示完整便当搭配，黄桃味自然露出",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnhhnF22a6yBwvTi9Z2CC1Zc",
+    "block_type": 32,
+    "children": [
+      "doxcn7cmuNxguRNumlZWklPjwUg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn7cmuNxguRNumlZWklPjwUg",
+    "block_type": 2,
+    "parent_id": "doxcnhhnF22a6yBwvTi9Z2CC1Zc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "10",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnzDpGeMNifq7VzBeRqcZ9sb",
+    "block_type": 32,
+    "children": [
+      "doxcnrywDyFITcoELA2VhAlK1Hd"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnrywDyFITcoELA2VhAlK1Hd",
+    "block_type": 2,
+    "parent_id": "doxcnzDpGeMNifq7VzBeRqcZ9sb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "45-55s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn4ir92pLA30oSZjACHghtob",
+    "block_type": 32,
+    "children": [
+      "doxcnz3rStXvzprkTFcYMv1rYkg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnz3rStXvzprkTFcYMv1rYkg",
+    "block_type": 2,
+    "parent_id": "doxcn4ir92pLA30oSZjACHghtob",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "便当装好，盖上盖子，放入包中",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnV9siezF7JTlLWABnbL5eof",
+    "block_type": 32,
+    "children": [
+      "doxcnM5IAzDiRbwnsa90fpX185e"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnM5IAzDiRbwnsa90fpX185e",
+    "block_type": 2,
+    "parent_id": "doxcnV9siezF7JTlLWABnbL5eof",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「就这么简单」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：打包完成✅",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnjzIaHNaPsnGI0qHuPrPX3c",
+    "block_type": 32,
+    "children": [
+      "doxcnq80pIxpD7HdEKO2kHNh5Tb"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnq80pIxpD7HdEKO2kHNh5Tb",
+    "block_type": 2,
+    "parent_id": "doxcnjzIaHNaPsnGI0qHuPrPX3c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "中景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnvN5SdauNW44KKM5E29Z14e",
+    "block_type": 32,
+    "children": [
+      "doxcnXJO7gfeke5iBwFhJeaoqYe"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnXJO7gfeke5iBwFhJeaoqYe",
+    "block_type": 2,
+    "parent_id": "doxcnvN5SdauNW44KKM5E29Z14e",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "展示便携性，打工人场景感",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnd2MYLEMIBsxWq7sNAQKOsc",
+    "block_type": 32,
+    "children": [
+      "doxcnMiUPveGP3KnL8YjVBHSB9b"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnMiUPveGP3KnL8YjVBHSB9b",
+    "block_type": 2,
+    "parent_id": "doxcnd2MYLEMIBsxWq7sNAQKOsc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "11",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnd3xKKs3zit0KIjmg0XThQd",
+    "block_type": 32,
+    "children": [
+      "doxcnRrx2XP39Ueq9X6XyeAXmFd"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnRrx2XP39Ueq9X6XyeAXmFd",
+    "block_type": 2,
+    "parent_id": "doxcnd3xKKs3zit0KIjmg0XThQd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "55-62s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn3LEW9WiArtqf3e6Svcl1cd",
+    "block_type": 32,
+    "children": [
+      "doxcneYAaEY1Z9nQHSwidobStue"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcneYAaEY1Z9nQHSwidobStue",
+    "block_type": 2,
+    "parent_id": "doxcn3LEW9WiArtqf3e6Svcl1cd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "勺子舀起一口酸奶送入口中（不露脸，仅嘴部以下）",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnqbEjw4yQYPcNmhhvbvQOkc",
+    "block_type": 32,
+    "children": [
+      "doxcnsyhvwi6vZ9mt0pl7ZDO18g"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnsyhvwi6vZ9mt0pl7ZDO18g",
+    "block_type": 2,
+    "parent_id": "doxcnqbEjw4yQYPcNmhhvbvQOkc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「我先替你们尝一口——嗯，浓稠度真的很可以」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：浓稠度满分💯",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn1KLvsYhBRKFjyv69h1a9Cg",
+    "block_type": 32,
+    "children": [
+      "doxcn5o5ulseLZcktQs44uXQjUh"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn5o5ulseLZcktQs44uXQjUh",
+    "block_type": 2,
+    "parent_id": "doxcn1KLvsYhBRKFjyv69h1a9Cg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "特写",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnNzktrewoe5iyBEu9DJUl4c",
+    "block_type": 32,
+    "children": [
+      "doxcnIa31NK6j6cjI703qT1gk9f"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnIa31NK6j6cjI703qT1gk9f",
+    "block_type": 2,
+    "parent_id": "doxcnNzktrewoe5iyBEu9DJUl4c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "真实食用镜头，增加可信度",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcncJBteMgY8plMo6GnQveNJf",
+    "block_type": 32,
+    "children": [
+      "doxcnuZ6WyK7ZtV5SNbl0RFCRxc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnuZ6WyK7ZtV5SNbl0RFCRxc",
+    "block_type": 2,
+    "parent_id": "doxcncJBteMgY8plMo6GnQveNJf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "12",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnUkvLfs4UYEAgGnLU9nXspe",
+    "block_type": 32,
+    "children": [
+      "doxcng3dyUqd2om4QatzEOu64hc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcng3dyUqd2om4QatzEOu64hc",
+    "block_type": 2,
+    "parent_id": "doxcnUkvLfs4UYEAgGnLU9nXspe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "62-68s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnxfoYeuS370jfU0UeE9DuEc",
+    "block_type": 32,
+    "children": [
+      "doxcnGOKwYGHwc4buL7FItoBo2b"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnGOKwYGHwc4buL7FItoBo2b",
+    "block_type": 2,
+    "parent_id": "doxcnxfoYeuS370jfU0UeE9DuEc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "回到俯拍桌面全景，成品+便当+酸奶完整画面",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcntBaxUv6AaIBxAZSbd1lKMf",
+    "block_type": 32,
+    "children": [
+      "doxcn7CromTLPtOnKVa2cKKglvg"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn7CromTLPtOnKVa2cKKglvg",
+    "block_type": 2,
+    "parent_id": "doxcntBaxUv6AaIBxAZSbd1lKMf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「不是那种稀的酸奶，吃起来像希腊酸奶该有的样子」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：这才是希腊酸奶该有的样子",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrsmOOVjsYwF5U6Y4JM8Ywg",
+    "block_type": 32,
+    "children": [
+      "doxcnRmMvbgVjUfdCVFywdGUwie"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnRmMvbgVjUfdCVFywdGUwie",
+    "block_type": 2,
+    "parent_id": "doxcnrsmOOVjsYwF5U6Y4JM8Ywg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍全景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnRrIW9TpTAZiQz65d9daANf",
+    "block_type": 32,
+    "children": [
+      "doxcnXD6owLGOarnXWR4h7s9tRf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnXD6owLGOarnXWR4h7s9tRf",
+    "block_type": 2,
+    "parent_id": "doxcnRrIW9TpTAZiQz65d9daANf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "收尾画面，视觉完整",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnk80P8Ky5xZjih6FCicSEQg",
+    "block_type": 32,
+    "children": [
+      "doxcnH9LpHtHAyxcanbkpGYqV7g"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnH9LpHtHAyxcanbkpGYqV7g",
+    "block_type": 2,
+    "parent_id": "doxcnk80P8Ky5xZjih6FCicSEQg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "13",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnwyEGdH93hNqCRNHYyMCxZf",
+    "block_type": 32,
+    "children": [
+      "doxcnboDL4eLHoxrThE6HmJrawf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnboDL4eLHoxrThE6HmJrawf",
+    "block_type": 2,
+    "parent_id": "doxcnwyEGdH93hNqCRNHYyMCxZf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "68-75s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnspHZ8asY97ehlaJS7UCrrh",
+    "block_type": 32,
+    "children": [
+      "doxcn93QOidZ85W0PlpS1styxXf"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn93QOidZ85W0PlpS1styxXf",
+    "block_type": 2,
+    "parent_id": "doxcnspHZ8asY97ehlaJS7UCrrh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "手比心/挥手，画面定格",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn96NvDvXsrKcPTLQo2QBXAg",
+    "block_type": 32,
+    "children": [
+      "doxcnFqlSPClCuOS2xdRkAIA88f"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnFqlSPClCuOS2xdRkAIA88f",
+    "block_type": 2,
+    "parent_id": "doxcn96NvDvXsrKcPTLQo2QBXAg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "口播：「姐妹们评论区交流一下！明天见！」\n",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        },
+        {
+          "text_run": {
+            "content": "字幕：你们早餐怎么搭配？评论区见👋",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnOf0pWKpr2G5rVdSpUZpVfc",
+    "block_type": 32,
+    "children": [
+      "doxcnjFnu6VyKqWUFOVZxtZtI8e"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnjFnu6VyKqWUFOVZxtZtI8e",
+    "block_type": 2,
+    "parent_id": "doxcnOf0pWKpr2G5rVdSpUZpVfc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "俯拍中景",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnvvhn1hbCx4vnFDskMOjtmd",
+    "block_type": 32,
+    "children": [
+      "doxcndvzNEXXbqNJLL2KkJjp7Sc"
+    ],
+    "parent_id": "doxcn4GPXARrPgYNaDIAJHh2ISd",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcndvzNEXXbqNJLL2KkJjp7Sc",
+    "block_type": 2,
+    "parent_id": "doxcnvvhn1hbCx4vnFDskMOjtmd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "互动引导，结尾定格2秒",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2BCaYcUSP8jIdAFhVqd2Qe",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "共13个镜头，全部采用俯拍/特写/第一视角，无需专业设备，手机+俯拍支架即可完成拍摄。",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnj2FKIq7gfLLQb84VIaHE3b",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "五、字幕提示汇总",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcn3KY99VNV5yuED3wbSqPwof",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "以下汇总全片字幕内容，供后期剪辑参考。关键种草镜头（质地展示）需加大号居中字幕强化视觉记忆。",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnZRPwUYLYhohJ2Hr2xxnuDH",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "六、风险质检",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "block_type": 31,
+    "children": [
+      "doxcnPfQHEPCTDcoSLizvQ3W8Oc",
+      "doxcnK9yM4fcOpA9TI195VU3omb",
+      "doxcnespCoX6yzEZwZWvY4Q3UVc",
+      "doxcnI7LWvsb4ZqtVcAQxZWNpMg",
+      "doxcn67kdgswsICqIU2sAWRT78g",
+      "doxcnrgYX90XFNbudd1Gy4wbyKb",
+      "doxcnUZLXFEb9UojsTHuz3xKeLg",
+      "doxcnNGJ9ee2sl91vR3J1JO4Vle",
+      "doxcn3N4th12PhL5rBih5xH6s9c",
+      "doxcnutadoidjwgOhH0qD1aSaYd",
+      "doxcnew8BdU3Uteq8oTB9uyVfVe",
+      "doxcnlgbXMVrVo9fAFwRhOwJFbf",
+      "doxcnJi97txqbEZ1cpkBTN6oiyg",
+      "doxcnAaTopd6gn8XwgXiEd3mYad",
+      "doxcnRK0XH0w6Q50BLEbPh1PQgc",
+      "doxcn5eryhlnkXS23pFzRYX2X7f",
+      "doxcnl55fX5ryCvilC6C9GAN1pb",
+      "doxcn3SN708QOvxYtPwWJ6JEToc",
+      "doxcntp0KikFJfCqk7FlmOr0jPf",
+      "doxcnETLGjBwowrV7SjoYQkjL4c",
+      "doxcnxebRxBm6qvdz26KTosnVqg",
+      "doxcnJbdNo0HN7nkdLopFMIcbMf",
+      "doxcngjtbUt8gS7dvhI8BCvq4oe",
+      "doxcn2bkncgT5KnOAdrMdxWu2fh",
+      "doxcnXlnVF6WD3YFwYVFlVE1Tjb",
+      "doxcnTBXREawkRPA4pZJWhV7MJc",
+      "doxcn2BcT89txyJFS35VpYoa9Lh",
+      "doxcnTWigsb2SsQl3UX8JAopn9e",
+      "doxcnij3P53U8144s9IgLFDj4sh",
+      "doxcnQHCtpfQCQDIzdUHdlTlBHd",
+      "doxcnNLQUSEEcYAuF8wRwcC0H4d",
+      "doxcnuJ8t8Q2pnwjC80Dib7JHyh",
+      "doxcnNcDTAKL2oagroSELQjer0c",
+      "doxcn2wIJXhFZo8Sj4XPzyZXzVd",
+      "doxcnwSKQAEHSybTl5znsXG4u7b",
+      "doxcnJIBpbKRUQCzgYJiWMQOzCh",
+      "doxcnuGQcnnFZsYy0t1f32HX7ce",
+      "doxcncGBROaU0CMWGORU9ZDNjNh",
+      "doxcnBepLu6Dqm21FZBBpx9GU0b",
+      "doxcnbi0XnvpWteM69eWD7hGTsh",
+      "doxcnySzTuCJBlghQIMUVVyErKf",
+      "doxcnHpTWV6jHsc1t5dxdszDIce"
+    ],
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "table": {
+      "cells": [
+        "doxcnPfQHEPCTDcoSLizvQ3W8Oc",
+        "doxcnK9yM4fcOpA9TI195VU3omb",
+        "doxcnespCoX6yzEZwZWvY4Q3UVc",
+        "doxcnI7LWvsb4ZqtVcAQxZWNpMg",
+        "doxcn67kdgswsICqIU2sAWRT78g",
+        "doxcnrgYX90XFNbudd1Gy4wbyKb",
+        "doxcnUZLXFEb9UojsTHuz3xKeLg",
+        "doxcnNGJ9ee2sl91vR3J1JO4Vle",
+        "doxcn3N4th12PhL5rBih5xH6s9c",
+        "doxcnutadoidjwgOhH0qD1aSaYd",
+        "doxcnew8BdU3Uteq8oTB9uyVfVe",
+        "doxcnlgbXMVrVo9fAFwRhOwJFbf",
+        "doxcnJi97txqbEZ1cpkBTN6oiyg",
+        "doxcnAaTopd6gn8XwgXiEd3mYad",
+        "doxcnRK0XH0w6Q50BLEbPh1PQgc",
+        "doxcn5eryhlnkXS23pFzRYX2X7f",
+        "doxcnl55fX5ryCvilC6C9GAN1pb",
+        "doxcn3SN708QOvxYtPwWJ6JEToc",
+        "doxcntp0KikFJfCqk7FlmOr0jPf",
+        "doxcnETLGjBwowrV7SjoYQkjL4c",
+        "doxcnxebRxBm6qvdz26KTosnVqg",
+        "doxcnJbdNo0HN7nkdLopFMIcbMf",
+        "doxcngjtbUt8gS7dvhI8BCvq4oe",
+        "doxcn2bkncgT5KnOAdrMdxWu2fh",
+        "doxcnXlnVF6WD3YFwYVFlVE1Tjb",
+        "doxcnTBXREawkRPA4pZJWhV7MJc",
+        "doxcn2BcT89txyJFS35VpYoa9Lh",
+        "doxcnTWigsb2SsQl3UX8JAopn9e",
+        "doxcnij3P53U8144s9IgLFDj4sh",
+        "doxcnQHCtpfQCQDIzdUHdlTlBHd",
+        "doxcnNLQUSEEcYAuF8wRwcC0H4d",
+        "doxcnuJ8t8Q2pnwjC80Dib7JHyh",
+        "doxcnNcDTAKL2oagroSELQjer0c",
+        "doxcn2wIJXhFZo8Sj4XPzyZXzVd",
+        "doxcnwSKQAEHSybTl5znsXG4u7b",
+        "doxcnJIBpbKRUQCzgYJiWMQOzCh",
+        "doxcnuGQcnnFZsYy0t1f32HX7ce",
+        "doxcncGBROaU0CMWGORU9ZDNjNh",
+        "doxcnBepLu6Dqm21FZBBpx9GU0b",
+        "doxcnbi0XnvpWteM69eWD7hGTsh",
+        "doxcnySzTuCJBlghQIMUVVyErKf",
+        "doxcnHpTWV6jHsc1t5dxdszDIce"
+      ],
+      "property": {
+        "column_size": 3,
+        "column_width": [
+          100,
+          100,
+          100
+        ],
+        "merge_info": [
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          },
+          {
+            "col_span": 1,
+            "row_span": 1
+          }
+        ],
+        "row_size": 14
+      }
+    }
+  },
+  {
+    "block_id": "doxcnPfQHEPCTDcoSLizvQ3W8Oc",
+    "block_type": 32,
+    "children": [
+      "doxcnnZ4bPR4D5upekA3cx3gsBe"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnnZ4bPR4D5upekA3cx3gsBe",
+    "block_type": 2,
+    "parent_id": "doxcnPfQHEPCTDcoSLizvQ3W8Oc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "时间段",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnK9yM4fcOpA9TI195VU3omb",
+    "block_type": 32,
+    "children": [
+      "doxcn57MGKScse3qrarXR1OeSNe"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn57MGKScse3qrarXR1OeSNe",
+    "block_type": 2,
+    "parent_id": "doxcnK9yM4fcOpA9TI195VU3omb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "字幕内容",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnespCoX6yzEZwZWvY4Q3UVc",
+    "block_type": 32,
+    "children": [
+      "doxcnSngpkJn3Cm1TgQt8a0SLch"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnSngpkJn3Cm1TgQt8a0SLch",
+    "block_type": 2,
+    "parent_id": "doxcnespCoX6yzEZwZWvY4Q3UVc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "样式建议",
+            "text_element_style": {
+              "bold": true,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnI7LWvsb4ZqtVcAQxZWNpMg",
+    "block_type": 32,
+    "children": [
+      "doxcnqcsn7eH07zEYI379QMqVUf"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnqcsn7eH07zEYI379QMqVUf",
+    "block_type": 2,
+    "parent_id": "doxcnI7LWvsb4ZqtVcAQxZWNpMg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "0-3s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn67kdgswsICqIU2sAWRT78g",
+    "block_type": 32,
+    "children": [
+      "doxcn6Ohvd3iNSewdg2t5hxtazd"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn6Ohvd3iNSewdg2t5hxtazd",
+    "block_type": 2,
+    "parent_id": "doxcn67kdgswsICqIU2sAWRT78g",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "减脂早餐Day28✨",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnrgYX90XFNbudd1Gy4wbyKb",
+    "block_type": 32,
+    "children": [
+      "doxcntwrxczxSQiqVBoDQTXS2Bg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcntwrxczxSQiqVBoDQTXS2Bg",
+    "block_type": 2,
+    "parent_id": "doxcnrgYX90XFNbudd1Gy4wbyKb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "大号加粗，居中，带emoji",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnUZLXFEb9UojsTHuz3xKeLg",
+    "block_type": 32,
+    "children": [
+      "doxcn6gh8gsPca2vw0IqmTIEWjh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn6gh8gsPca2vw0IqmTIEWjh",
+    "block_type": 2,
+    "parent_id": "doxcnUZLXFEb9UojsTHuz3xKeLg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "3-5s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnNGJ9ee2sl91vR3J1JO4Vle",
+    "block_type": 32,
+    "children": [
+      "doxcnuhDEjQkGNBoblVDf3BUl2d"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnuhDEjQkGNBoblVDf3BUl2d",
+    "block_type": 2,
+    "parent_id": "doxcnNGJ9ee2sl91vR3J1JO4Vle",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "今天要吃的搭配绝了！",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn3N4th12PhL5rBih5xH6s9c",
+    "block_type": 32,
+    "children": [
+      "doxcnhSCAUAjjgXV9U2jRPAF3Af"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnhSCAUAjjgXV9U2jRPAF3Af",
+    "block_type": 2,
+    "parent_id": "doxcn3N4th12PhL5rBih5xH6s9c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnutadoidjwgOhH0qD1aSaYd",
+    "block_type": 32,
+    "children": [
+      "doxcnv980J6k0eSiHrwSHH3YCff"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnv980J6k0eSiHrwSHH3YCff",
+    "block_type": 2,
+    "parent_id": "doxcnutadoidjwgOhH0qD1aSaYd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "5-10s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnew8BdU3Uteq8oTB9uyVfVe",
+    "block_type": 32,
+    "children": [
+      "doxcnlPFw5GMGVGuYeDL2rk5NCg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnlPFw5GMGVGuYeDL2rk5NCg",
+    "block_type": 2,
+    "parent_id": "doxcnew8BdU3Uteq8oTB9uyVfVe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "打工人の真实早晨😴",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnlgbXMVrVo9fAFwRhOwJFbf",
+    "block_type": 32,
+    "children": [
+      "doxcnZCBS4NoU0ldd54EOTH1gsd"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnZCBS4NoU0ldd54EOTH1gsd",
+    "block_type": 2,
+    "parent_id": "doxcnlgbXMVrVo9fAFwRhOwJFbf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnJi97txqbEZ1cpkBTN6oiyg",
+    "block_type": 32,
+    "children": [
+      "doxcnDl83qzWJnwDQOCmzIqWdMh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnDl83qzWJnwDQOCmzIqWdMh",
+    "block_type": 2,
+    "parent_id": "doxcnJi97txqbEZ1cpkBTN6oiyg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "10-15s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnAaTopd6gn8XwgXiEd3mYad",
+    "block_type": 32,
+    "children": [
+      "doxcnUDNXKoS2c6E6vBiIznao4e"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnUDNXKoS2c6E6vBiIznao4e",
+    "block_type": 2,
+    "parent_id": "doxcnAaTopd6gn8XwgXiEd3mYad",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "5分钟⏰ 高蛋白低负担",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnRK0XH0w6Q50BLEbPh1PQgc",
+    "block_type": 32,
+    "children": [
+      "doxcnjPg4AmS3arI0nSCHvlmWKg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnjPg4AmS3arI0nSCHvlmWKg",
+    "block_type": 2,
+    "parent_id": "doxcnRK0XH0w6Q50BLEbPh1PQgc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn5eryhlnkXS23pFzRYX2X7f",
+    "block_type": 32,
+    "children": [
+      "doxcnSgrigsyJ7zIaw6Z9KKKMmc"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnSgrigsyJ7zIaw6Z9KKKMmc",
+    "block_type": 2,
+    "parent_id": "doxcn5eryhlnkXS23pFzRYX2X7f",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "15-20s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnl55fX5ryCvilC6C9GAN1pb",
+    "block_type": 32,
+    "children": [
+      "doxcngE2dNZrAFBzAppivQNkK9d"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcngE2dNZrAFBzAppivQNkK9d",
+    "block_type": 2,
+    "parent_id": "doxcnl55fX5ryCvilC6C9GAN1pb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "轻醒0蔗糖希腊酸奶",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn3SN708QOvxYtPwWJ6JEToc",
+    "block_type": 32,
+    "children": [
+      "doxcnpBFIJ7hC7yR8FRXhmX00ue"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnpBFIJ7hC7yR8FRXhmX00ue",
+    "block_type": 2,
+    "parent_id": "doxcn3SN708QOvxYtPwWJ6JEToc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcntp0KikFJfCqk7FlmOr0jPf",
+    "block_type": 32,
+    "children": [
+      "doxcnqO16QdGDRVSPD711of6oCb"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnqO16QdGDRVSPD711of6oCb",
+    "block_type": 2,
+    "parent_id": "doxcntp0KikFJfCqk7FlmOr0jPf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "20-25s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnETLGjBwowrV7SjoYQkjL4c",
+    "block_type": 32,
+    "children": [
+      "doxcneoagkNRnw8PrrhSG0XHXOb"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcneoagkNRnw8PrrhSG0XHXOb",
+    "block_type": 2,
+    "parent_id": "doxcnETLGjBwowrV7SjoYQkjL4c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "看这个质地！！",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnxebRxBm6qvdz26KTosnVqg",
+    "block_type": 32,
+    "children": [
+      "doxcnrwhBB2VAWh3Sh5ABhq8tMh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnrwhBB2VAWh3Sh5ABhq8tMh",
+    "block_type": 2,
+    "parent_id": "doxcnxebRxBm6qvdz26KTosnVqg",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "加大号，居中，强调",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnJbdNo0HN7nkdLopFMIcbMf",
+    "block_type": 32,
+    "children": [
+      "doxcn5bmYHJ10u1WLoJTR1zPqBh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn5bmYHJ10u1WLoJTR1zPqBh",
+    "block_type": 2,
+    "parent_id": "doxcnJbdNo0HN7nkdLopFMIcbMf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "25-30s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcngjtbUt8gS7dvhI8BCvq4oe",
+    "block_type": 32,
+    "children": [
+      "doxcnYNGX8DEOrltRge7cguz98f"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnYNGX8DEOrltRge7cguz98f",
+    "block_type": 2,
+    "parent_id": "doxcngjtbUt8gS7dvhI8BCvq4oe",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "蓝莓+燕麦=绝配🫐",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2bkncgT5KnOAdrMdxWu2fh",
+    "block_type": 32,
+    "children": [
+      "doxcnKIRQhOQTqL1yudMue4RQIe"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnKIRQhOQTqL1yudMue4RQIe",
+    "block_type": 2,
+    "parent_id": "doxcn2bkncgT5KnOAdrMdxWu2fh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnXlnVF6WD3YFwYVFlVE1Tjb",
+    "block_type": 32,
+    "children": [
+      "doxcn29XFGJWuKyIe7KOYdorDgh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn29XFGJWuKyIe7KOYdorDgh",
+    "block_type": 2,
+    "parent_id": "doxcnXlnVF6WD3YFwYVFlVE1Tjb",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "30-40s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnTBXREawkRPA4pZJWhV7MJc",
+    "block_type": 32,
+    "children": [
+      "doxcndEzzvtEERrEuO8bb2FjnGc"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcndEzzvtEERrEuO8bb2FjnGc",
+    "block_type": 2,
+    "parent_id": "doxcnTBXREawkRPA4pZJWhV7MJc",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "蛋白质≈15g 💪 碳水可控",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2BcT89txyJFS35VpYoa9Lh",
+    "block_type": 32,
+    "children": [
+      "doxcnJZEkKYrwJeODyXYCWdp8Fg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnJZEkKYrwJeODyXYCWdp8Fg",
+    "block_type": 2,
+    "parent_id": "doxcn2BcT89txyJFS35VpYoa9Lh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角，数据加粗",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnTWigsb2SsQl3UX8JAopn9e",
+    "block_type": 32,
+    "children": [
+      "doxcnYzBd8U9Xe5mIaSq5pXjsjf"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnYzBd8U9Xe5mIaSq5pXjsjf",
+    "block_type": 2,
+    "parent_id": "doxcnTWigsb2SsQl3UX8JAopn9e",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "40-45s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnij3P53U8144s9IgLFDj4sh",
+    "block_type": 32,
+    "children": [
+      "doxcnBalDCaMnUdx68eG2UwjzYd"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnBalDCaMnUdx68eG2UwjzYd",
+    "block_type": 2,
+    "parent_id": "doxcnij3P53U8144s9IgLFDj4sh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "黄桃味→下午加餐🍑",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnQHCtpfQCQDIzdUHdlTlBHd",
+    "block_type": 32,
+    "children": [
+      "doxcnLdwDPI9vDQicWUzqoclZFg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnLdwDPI9vDQicWUzqoclZFg",
+    "block_type": 2,
+    "parent_id": "doxcnQHCtpfQCQDIzdUHdlTlBHd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnNLQUSEEcYAuF8wRwcC0H4d",
+    "block_type": 32,
+    "children": [
+      "doxcnnakNZ2EiSr4ukLw3th3Vqc"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnnakNZ2EiSr4ukLw3th3Vqc",
+    "block_type": 2,
+    "parent_id": "doxcnNLQUSEEcYAuF8wRwcC0H4d",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "45-55s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnuJ8t8Q2pnwjC80Dib7JHyh",
+    "block_type": 32,
+    "children": [
+      "doxcnUj8JpFtwGAsUZZuK0WP8Rg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnUj8JpFtwGAsUZZuK0WP8Rg",
+    "block_type": 2,
+    "parent_id": "doxcnuJ8t8Q2pnwjC80Dib7JHyh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "打包完成✅",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnNcDTAKL2oagroSELQjer0c",
+    "block_type": 32,
+    "children": [
+      "doxcnfu2QZ5GSAIovlKNYFoNCwd"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnfu2QZ5GSAIovlKNYFoNCwd",
+    "block_type": 2,
+    "parent_id": "doxcnNcDTAKL2oagroSELQjer0c",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcn2wIJXhFZo8Sj4XPzyZXzVd",
+    "block_type": 32,
+    "children": [
+      "doxcnFqWFSAhbG59ucT0XPBxa3f"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnFqWFSAhbG59ucT0XPBxa3f",
+    "block_type": 2,
+    "parent_id": "doxcn2wIJXhFZo8Sj4XPzyZXzVd",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "55-62s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnwSKQAEHSybTl5znsXG4u7b",
+    "block_type": 32,
+    "children": [
+      "doxcnlL98YKPjQnVqLpI21CPkvb"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnlL98YKPjQnVqLpI21CPkvb",
+    "block_type": 2,
+    "parent_id": "doxcnwSKQAEHSybTl5znsXG4u7b",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "浓稠度满分💯",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnJIBpbKRUQCzgYJiWMQOzCh",
+    "block_type": 32,
+    "children": [
+      "doxcn9uUOQFPEntfyK8EOrTvbye"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn9uUOQFPEntfyK8EOrTvbye",
+    "block_type": 2,
+    "parent_id": "doxcnJIBpbKRUQCzgYJiWMQOzCh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "加大号，居中",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnuGQcnnFZsYy0t1f32HX7ce",
+    "block_type": 32,
+    "children": [
+      "doxcn0wh8cOFS0wHsw5UMIQ1dqe"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcn0wh8cOFS0wHsw5UMIQ1dqe",
+    "block_type": 2,
+    "parent_id": "doxcnuGQcnnFZsYy0t1f32HX7ce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "62-68s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcncGBROaU0CMWGORU9ZDNjNh",
+    "block_type": 32,
+    "children": [
+      "doxcng5wNv1Ug2xe4L3KsstXCBg"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcng5wNv1Ug2xe4L3KsstXCBg",
+    "block_type": 2,
+    "parent_id": "doxcncGBROaU0CMWGORU9ZDNjNh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "这才是希腊酸奶该有的样子",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnBepLu6Dqm21FZBBpx9GU0b",
+    "block_type": 32,
+    "children": [
+      "doxcntUOKjAqx8jBaeNmiYjZ4ze"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcntUOKjAqx8jBaeNmiYjZ4ze",
+    "block_type": 2,
+    "parent_id": "doxcnBepLu6Dqm21FZBBpx9GU0b",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "常规，左下角",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnbi0XnvpWteM69eWD7hGTsh",
+    "block_type": 32,
+    "children": [
+      "doxcnaOlKjjkY5p62JPatTvC7Uf"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnaOlKjjkY5p62JPatTvC7Uf",
+    "block_type": 2,
+    "parent_id": "doxcnbi0XnvpWteM69eWD7hGTsh",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "68-75s",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnySzTuCJBlghQIMUVVyErKf",
+    "block_type": 32,
+    "children": [
+      "doxcnV5aCKG033q1kyJzyCsvjSh"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcnV5aCKG033q1kyJzyCsvjSh",
+    "block_type": 2,
+    "parent_id": "doxcnySzTuCJBlghQIMUVVyErKf",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "你们早餐怎么搭配？评论区见👋",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnHpTWV6jHsc1t5dxdszDIce",
+    "block_type": 32,
+    "children": [
+      "doxcns2ezc5HtvWjk4w18lsVacb"
+    ],
+    "parent_id": "doxcnYJXpQj0OAUBH53kbZyKk5b",
+    "table_cell": {}
+  },
+  {
+    "block_id": "doxcns2ezc5HtvWjk4w18lsVacb",
+    "block_type": 2,
+    "parent_id": "doxcnHpTWV6jHsc1t5dxdszDIce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "大号，居中",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  },
+  {
+    "block_id": "doxcnBdr0OjjZCKrJ2Ufg343SDc",
+    "block_type": 5,
+    "heading3": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "合规风险检查",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnw5RNW11iGSvQfUgnizVxEi",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "无绝对化用语 — 未使用\"最好\"\"第一\"\"绝对\"等词",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnDy9y2lovnsCXcOJXNjFCMh",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "无虚假承诺或夸大宣传 — 未承诺减重、降糖等功效",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnOri9KxvgzqMRl28ujoWovg",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "无医疗/健康领域的违规功效宣称 — 仅描述\"高蛋白\"\"0蔗糖\"等客观属性",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnuOFMa7vGjFaQfHWT06v02z",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "产品功效描述有依据支撑 — \"蛋白质≈15g\"基于希腊酸奶品类通用数据",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnMT2UPphjFPzvUHKZPygd5g",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "无竞品贬低 — 未提及其他品牌",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnSLCsM7GfZubCDKLKpjX1hR",
+    "block_type": 5,
+    "heading3": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "内容质量检查",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnUICLvzasiZvxIExBQAdSse",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "符合博主风格 — 不露脸、俯拍、连续剧打卡式、口语化",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnwj2iuxSSmGdrxqHXszpqRb",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "产品植入自然 — 酸奶作为早餐食材之一出现，非单独硬推",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnouWvcycHVeuQMFgxLW7lZc",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "多口味展示 — 蓝莓味（主镜头）+ 黄桃味（加餐场景），自然不刻意",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnh8In4cXvutff6uBzyTgomb",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "拍摄门槛低 — 仅需手机+俯拍支架，无需专业设备",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnezaS8I09b2tIf6snePwQTe",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "时长合规 — 约75秒，在60-90秒范围内",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnHZSVv90gcNiDA28pDmfsDe",
+    "block_type": 12,
+    "bullet": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "互动引导到位 — 结尾设置开放式问题引导评论",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnVmw0Fhb4HmlK8r0tVT0a1d",
+    "block_type": 4,
+    "heading2": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "七、发布建议",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    },
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce"
+  },
+  {
+    "block_id": "doxcnx2Y7oZen7uuWLCEc4ISKWO",
+    "block_type": 2,
+    "parent_id": "ZUyEdZo6RoZDLaxDdxXcLv37nce",
+    "text": {
+      "elements": [
+        {
+          "text_run": {
+            "content": "根据博主粉丝画像（打工人+减脂人群）和平台流量规律，建议如下发布策略：",
+            "text_element_style": {
+              "bold": false,
+              "inline_code": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            }
+          }
+        }
+      ],
+      "style": {
+        "align": 1,
+        "folded": false
+      }
+    }
+  }
+]
