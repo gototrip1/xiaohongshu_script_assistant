@@ -89,11 +89,13 @@ cd Script_assistant
 
 # 3. 安装依赖（如果还没安装 gradio）
 pip install gradio
+
+# 4.替换.env.example为.env
+mv .env.example .env
+
 ```
 
 #### 配置环境变量
-替换.env.local为.env
-mv .env.local .env
 
 在 `src/.env` 文件中配置以下变量（参考 [src/agent/models/env_utils.py](/Script_assistant/src/agent/models/env_utils.py)）：
 
